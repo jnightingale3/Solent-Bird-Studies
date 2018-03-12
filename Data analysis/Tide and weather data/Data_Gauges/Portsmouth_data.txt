@@ -1,0 +1,3 @@
+Tide data for Portsmouth (based on gauge on Victory jetty) can be downloaded from the British Oceanographic Data Centre www.bodc.ac.uk
+
+However, the licence for this data does not permit redistribution without permission. Therefore, users will have to download these data themselves.
