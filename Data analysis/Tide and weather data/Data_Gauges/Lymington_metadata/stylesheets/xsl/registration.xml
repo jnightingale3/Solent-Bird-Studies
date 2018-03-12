@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+  <xsl:template match="metc">
+    <xsl:apply-templates select="cntinfo"/>
+  </xsl:template>
+  <xsl:template match="cntinfo">
+    <xsl:apply-templates select="cntperp"/>
+    <xsl:apply-templates select="cntaddr"/>
+    <xsl:apply-templates select="cntvoice"/>
+    <xsl:apply-templates select="cntfax"/>
+    <xsl:apply-templates select="cntemail"/>
+  </xsl:template>
+  <xsl:template match="cntperp">
+    <xsl:apply-templates select="cntper"/>
+    <xsl:apply-templates select="cntorg"/>
+  </xsl:template>
+  <xsl:template match="cntper">
+    <tr>
+      <td class="name">Contact Person</td>
+      <td class="value">
+        <xsl:value-of select="."/>
+      </td>
+    </tr>
+  </xsl:template>
+  <xsl:template match="cntorg">
+    <tr>
+      <td class="name">Contact Organisation</td>
+      <td class="value">
+        <xsl:value-of select="."/>
+      </td>
+    </tr>
+  </xsl:template>
+  <xsl:template match="cntaddr">
+    <xsl:apply-templates select="addrtype"/>
+    <xsl:apply-templates select="address"/>
+    <xsl:apply-templates select="city"/>
+    <xsl:apply-templates select="state"/>
+    <xsl:apply-templates select="postal"/>
+    <xsl:apply-templates select="country"/>
+  </xsl:template>
+  <xsl:template match="addrtype">
+    <tr>
+      <td class="name">None</td>
+      <td class="value">
+        <xsl:value-of select="."/>
+      </td>
+    </tr>
+  </xsl:template>
+  <xsl:template match="address">
+    <tr>
+      <td class="name">Address</td>
+      <td class="value">
+        <xsl:value-of select="."/>
+      </td>
+    </tr>
+  </xsl:template>
+  <xsl:template match="city">
+    <tr>
+      <td class="name">City</td>
+      <td class="value">
+        <xsl:value-of select="."/>
+      </td>
+    </tr>
+  </xsl:template>
+  <xsl:template match="state">
+    <tr>
+      <td class="name">County</td>
+      <td class="value">
+        <xsl:value-of select="."/>
+      </td>
+    </tr>
+  </xsl:template>
+  <xsl:template match="postal">
+    <tr>
+      <td class="name">Post Code</td>
+      <td class="value">
+        <xsl:value-of select="."/>
+      </td>
+    </tr>
+  </xsl:template>
+  <xsl:template match="country">
+    <tr>
+      <td class="name">Country</td>
+      <td class="value">
+        <xsl:value-of select="."/>
+      </td>
+    </tr>
+  </xsl:template>
+  <xsl:template match="cntvoice">
+    <tr>
+      <td class="name">Contact Voice Telephone</td>
+      <td class="value">
+        <xsl:value-of select="."/>
+      </td>
+    </tr>
+  </xsl:template>
+  <xsl:template match="cntfax">
+    <tr>
+      <td class="name">Contact Fax</td>
+      <td class="value">
+        <xsl:value-of select="."/>
+      </td>
+    </tr>
+  </xsl:template>
+  <xsl:template match="cntemail">
+    <tr>
+      <td class="name">Contact Email Address</td>
+      <td class="value">
+        <xsl:value-of select="."/>
+      </td>
+    </tr>
+  </xsl:template>
+</xsl:stylesheet>

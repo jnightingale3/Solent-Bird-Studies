@@ -1,0 +1,263 @@
+img.navigation {
+    vertical-align: text-top;
+}
+
+.left-element {
+  position: absolute;
+  left: 0;
+  width: 50%;
+}
+
+.right-element {
+  position: absolute;
+  right: 0;
+  width: 50%;
+  text-align: right;   
+}
+
+div.box_menu {
+  clear: left;
+  width: 20em;
+  float: left;
+  background: #F4F8FB url(/images/07/fade_m.jpg) repeat-x top left;
+  margin-bottom: 1em;
+}
+
+div.box_menu_layers {
+  position:relative;
+  clear: left;
+  width: 20em;
+  float: left;
+  background: #F4F8FB url(/images/07/fade_m.jpg) repeat-x top left;
+  margin-bottom: 1em;
+}
+
+                     
+div.content { 
+  background: #F4F8FB url(/images/07/fade_m.jpg) repeat-x top left;
+  margin-left: 21em;
+  margin-bottom: 1em;
+}
+
+
+#zoom_to_region {
+	vertical-align: top;
+}
+
+#result_extent {
+  text-align: center;
+  margin-left: -1px;
+}
+
+#manunits {
+	margin-right: 1em;
+}
+
+#basket {
+	vertical-align: middle;
+    margin-right: 0.3em;
+	border: 0;
+}
+
+#login {
+	margin: 1em;
+}
+
+#login input {
+	margin-bottom: 0.5em;
+    margin-right: 0.5em;
+	vertical-align: middle;
+}
+
+ol.menu_list {
+	padding: 0;
+    margin: 0 0 0.3em 1.5em;
+	list-style-type: decimal;
+}
+
+div.search_steps { 
+   margin-top: 1em;
+   margin-bottom: 0.5em;
+   position: absolute; 
+   z-index: 10;
+}
+
+img.step {
+	border: none;
+	vertical-align: middle;
+    margin-right: 0.3em;
+}
+
+.search_step {
+    font-size: 120%;
+	padding-right: 0.3em;
+}
+
+legend, th {
+	color: #015B97;
+    font-weight: bold;
+}
+
+th {
+	vertical-align: top;
+}
+
+table.data {
+	width: 99%;
+}
+
+table.data td {
+	font-size: 90%;
+    border-bottom: solid 1px #9E9E9E;
+	padding-left: 2px;
+    padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+table.results th {
+	border-top: solid 0.5em #D9EAF2;
+	background-color: #9E9E9E;
+    color: white;
+}
+
+table.summary th {
+	font-size: 90%;
+	background-color: #9E9E9E;
+    color: white;
+	padding-top: 2px;
+    padding-bottom: 0;
+	padding-left: 2px;
+}
+
+td.name {
+    vertical-align: text-top;	
+	border-right: solid 1px #9E9E9E;
+    background-color: #E6EEF2;
+}
+
+td.value {
+	background-color: #CEE6F2;
+}
+
+td.result_row {
+	padding-right: 1em;
+}
+
+tfoot {
+	font-weight: bold;
+}
+
+span.disabled {
+	color: #999999;
+}
+
+span.head_top {
+	font-weight: normal;
+    color: black;
+}
+
+fieldset {
+	margin-bottom: 1em;
+    padding: 0.5em;
+}
+
+div.result_legend {
+	text-align: left;
+    margin-left: 0.5em;
+	margin-bottom: 0.3em;
+}
+
+.ordering {
+	white-space: nowrap;
+}
+
+img.order {
+	border: 0;
+    vertical-align: middle;
+}
+
+input {
+	margin-right: 0.3em;
+}
+
+.cal {
+	border: 0;
+    margin-right: 0.5em;
+}
+
+.off {
+	color: #007AC5;
+}
+
+.on {
+	color: #800000;
+}
+
+.basket_colour1 {
+    background-color: #F2B5B5;
+}
+
+.basket_colour2 {
+    background-color: #F29D9D;
+}
+
+.search_step a:link {
+  color: #007AC5;
+  text-decoration: none;
+}
+.search_step a:visited {
+  color: #007AC5;
+  text-decoration: none;
+}
+.search_step a:hover {
+  color: #007AC5;
+  text-decoration: underline;
+}
+.search_step a:active {
+  color: red;
+  text-decoration: underline;
+}
+
+.help_icon {
+  border: none; 
+  float: right;
+  margin-top: 1px;
+  margin-right: 1px;
+}
+
+.icon_left {
+  float:left; 
+  margin-right: 0.3em;
+}
+
+.menu_item {
+  color: white;
+  margin-top: -2px;
+}
+
+.menu_item a:link {
+  color: white;
+  text-decoration: none;
+}
+.menu_item a:visited {
+  color: white;
+  text-decoration: none;
+}
+.menu_item a:hover {
+  color: #FF7504;
+  text-decoration: none;
+}
+.menu_item a:active {
+  color: red;
+  text-decoration: none;
+}
+
+.result_colour {
+  color: #FFEC40;
+}
+
+.icon {
+  border: none;
+  margin: 0 0 0 0.5em;
+  vertical-align: middle;
+}

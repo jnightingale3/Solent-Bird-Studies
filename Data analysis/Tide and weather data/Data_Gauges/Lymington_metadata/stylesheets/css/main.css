@@ -1,0 +1,187 @@
+.und_link {
+	TEXT-DECORATION: none;
+}
+
+A:link {
+	COLOR: #005a9c
+}
+A:visited {
+	COLOR: #007bc5
+}
+A:hover {
+	COLOR: #FF7504; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+
+BODY {
+	FONT-FAMILY: Arial, Helvetica
+}
+H1 {
+	MARGIN-TOP: 0px; FONT-SIZE: 130%; MARGIN-BOTTOM: 5px
+; color: #999999
+}
+H2 {
+	MARGIN-TOP: 0px; FONT-SIZE: 110%; MARGIN-BOTTOM: 0px; color: #999999
+}
+
+H3 { 
+    MARGIN-TOP: 0.5em; FONT-SIZE: 105%; MARGIN-BOTTOM: 0; color: #015B97
+}
+
+TH {
+	WHITE-SPACE: normal
+}
+CAPTION {
+	TEXT-ALIGN: left
+}
+.error {
+	COLOR: red
+}
+.button {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.menu_list {  list-style-position: outside; list-style-type: disc; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 12px}
+.subtle {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: normal; color: #999999}
+.subtle a:link { 
+  color: #999999;
+  text-decoration: none;
+}
+.subtle a:visited { 
+  color: #999999;
+  text-decoration: none;
+}           
+.subtle a:hover { 
+  color: #999999;
+  text-decoration: underline;
+}          
+.subtle a:active { 
+  color: red;
+  text-decoration: underline;
+}
+
+form {  margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px}
+.title {  font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #006699}
+.head {  font-family: Arial, Helvetica, sans-serif; font-size: 14px;
+	font-style: normal; font-weight: bold; color: #FFFFFF}
+.head a:link {  color: #FFFFFF; text-decoration: none}
+.head a:visited {  color: #FFFFFF; text-decoration: none}
+.head a:hover {  color: #FF7504; text-decoration: none}
+.head a:active {  color: red; text-decoration: none}
+	
+br {  padding-top: 4px; padding-bottom: 4px}
+.box {  margin-bottom: 8px}
+.menu_body { margin-top: 2px;
+		     margin-right: 0px;
+			 margin-bottom: 1px;
+			 margin-left: 0px;
+			 padding-top: 0px;
+			 padding-right: 0px;
+			 padding-bottom: 3px;
+			 padding-left: 0px;
+			 border-color: black black #000099;
+			 border-style: solid;
+			 border-top-width: 0px;
+			 border-right-width: 0px;
+			 border-bottom-width: 1px;
+			 border-left-width: 0px;
+			 width: 100%;
+			 white-space: nowrap;
+			 text-decoration: none}
+
+
+.nav_tab_off {
+         text-align: center;
+         border-left: 1px double black;
+	 border-bottom:1px double black;
+         border-top:1px double black;}
+
+.nav_tab_on {
+         text-align: center;
+         border-left: 1px double black;
+         border-top:1px double black;}
+
+.nav_sp {border-left:1px double black;
+	 border-bottom:1px double black;
+	 background:white}
+
+.nav_tb {border-left:1px double black;
+	 border-bottom:1px double black;
+	 border-right:1px double black;}
+
+
+
+.map_style {border-style: solid;
+	    border-color: #015b97;
+	    border-width: 2px;
+  	    background-color:#D9EAF2;}
+
+
+.imgBorder0 {
+	border-style:none;
+}
+
+.blank_cell {
+	background-color:#CFCFCF;
+}
+
+.download_header {
+	background-color: #B0B0B0;
+	font-weight: bold;
+}
+
+.download_cell_border {
+	text-align: center;
+}
+
+.xslt_font {
+	font-family: sans-serif;
+}
+
+/**
+ * To be used on text that must be prominently clickable
+ */
+.click_box {
+    border-style: dashed;
+    border-color: #999999;
+    border-width: 1px;
+    padding: 0.5em;
+    background-color: #F1F1F1;
+}
+
+
+#xvalues {
+  border-collapse: collapse;
+}
+#xvalues td {
+  border-width: 1px;
+  border-color: black;
+  border-style: inset none none none;
+}
+
+table.real_time_sites {
+  border-collapse: collapse;
+}
+
+table.real_time_sites td {
+  border: 	1px solid #888888;
+  padding:	5px;
+}
+
+
+
+table.full_width
+{
+width: 100%;
+}
+
+table.border {
+border: thin solid rgb(0,0,0);
+}
+
+tr.header
+{
+background-color: rgb(200,200,200);
+text-align: center;
+}

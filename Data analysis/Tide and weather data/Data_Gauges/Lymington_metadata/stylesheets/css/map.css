@@ -1,0 +1,231 @@
+
+h1.title {
+	font-size: 20px;
+}
+
+h2.head {
+	margin-bottom: 6px;
+    margin-top: 0px;
+	padding: 0;
+}	
+
+div.title {
+	clear: both;
+}
+
+div.warnings {
+  overflow: scroll;
+}
+
+.list-holder {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.collapsible-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 15px;
+}
+
+.list-toggle {
+  padding-right: 5px;
+  vertical-align: middle;
+}
+
+.toggle {
+  cursor: default;
+}
+
+.layer {
+  font-style: italic;
+}
+
+.olHandlerBoxZoomBox {
+    border: 2px solid red;
+    position: absolute;
+    background-color: white;
+    opacity: 0.50;
+    font-size: 1px;
+    filter: alpha(opacity=50);
+}
+.olHandlerBoxSelectFeature {
+    border: 2px solid blue;
+    position: absolute;
+    background-color: white;
+    opacity: 0.50;
+    font-size: 1px;
+    filter: alpha(opacity=50);
+}   
+
+
+.outline_box {
+	text-align: left;
+	background-color: white;
+	width: 950px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0.5em;
+	border: 1px solid #CEE6F2;
+	padding: 1em 1em 0.5em 1em;
+}
+
+#ref_map {
+  cursor: crosshair;
+}
+
+#main {
+  cursor: crosshair; 
+  position:absolute; 
+  visibility:hidden; 
+  /*width:<?cs var:gis.width ?>px; height:<?cs var:gis.height ?>px;  */
+  background:transparent;
+}
+
+#redraw {
+  margin-top: 0.5em;
+}
+
+th {
+	text-align: left;
+}
+
+td {
+	padding: 0px;
+    margin: 0px;
+}
+
+td.column {
+	padding-left: 0.5em;
+}
+
+span.right {
+	float: right;
+    text-align: right;
+}
+
+span.left {
+	float: left;
+    text-align: left;
+}
+
+.colour1 {
+	background-color: #E6EEF2;
+}
+
+.colour2 {
+	background-color: #CEE6F2;
+}
+
+p.message {
+	margin-top: 0px;
+    margin-bottom: 0px;
+	padding: 0.1em;
+}
+
+p.split {
+	border-bottom: solid 1px #9E9E9E;
+}
+
+p.message img {
+	vertical-align: middle;
+}
+
+.notice {
+	color: red;
+}
+
+div.outline {
+	border: solid 1px #BFBFBF;
+}
+
+div.box_tedge {
+  background-image: url(/images/map/box_tedge.gif);
+  background-position: top left;
+  background-repeat: repeat-x;
+  background-color: #D9EAF2;
+  margin-bottom: 0.5em;
+}
+div.box_redge {
+  background-image: url(/images/map/box_redge.gif);
+  background-position: top right;
+  background-repeat: repeat-y;
+}
+div.box_bedge {
+  background-image: url(/images/map/box_bedge.gif);
+  background-position: bottom left;
+  background-repeat: repeat-x;
+}
+div.box_ledge {
+  background-image: url(/images/map/box_ledge.gif);
+  background-position: top left;
+  background-repeat: repeat-y;
+}
+div.box_tlcorner {
+  background-image: url(/images/map/box_tlcorner.gif);
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+div.box_trcorner {
+  background-image: url(/images/map/box_trcorner.gif);
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+div.box_blcorner {
+  background-image: url(/images/map/box_blcorner.gif);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+}
+div.box_brcorner {
+  background-image: url(/images/map/box_brcorner.gif);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
+div.box_innercontent {
+  padding: 2px 6px 4px 6px;
+}
+
+div.olhelptext {
+  text-align: 		left;
+  font-size:	 	10px;
+  padding-top:		8px;
+  padding-right:	20px;
+}
+
+div.olhelptext img {
+  border:		2px solid #f4f8fb;
+  vertical-align: 	middle;
+  margin-bottom:	4px;
+  margin-right:		4px;
+}
+
+#quick-start {
+  font-size: 110%;
+  font-weight: bold;
+  margin-right: 0.5em;
+  text-shadow:
+  0px 0px 3px white,
+  1px 1px white,
+  -1px -1px white,
+  -1px 1px white,
+  1px -1px white;
+}
+
+#quick-start a {
+  color: #830404;
+}
+
+.olControlScaleLine {
+    background: white;
+    padding: 5px;
+
+    /* IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+
+    /* Netscape */
+    -moz-opacity: 0.85;
+
+    /* Good browsers */
+    opacity: 0.85;
+}

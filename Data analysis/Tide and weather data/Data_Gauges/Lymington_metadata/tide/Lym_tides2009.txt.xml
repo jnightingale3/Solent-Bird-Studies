@@ -1,0 +1,249 @@
+<metadata>
+   <idinfo>
+	 <ccoinfo>
+<coastgrp>SCG</coastgrp>
+<geogkw>None</geogkw>
+<manunit>5cSU17</manunit>
+<cell>5c</cell>
+	   <survey>
+		 <tide>
+		   <tiderloc>Lymington</tiderloc>
+		   <tidegman>Etrometa</tidegman>
+		   <tidegmod>Step Gauge</tidegmod>
+		 </tide>
+	   </survey>
+	 </ccoinfo>
+	 <citation>
+	   <citeinfo>
+		 <origin>Channel Coastal Observatory</origin>
+		 <pubdate>20100127</pubdate>
+		 <title>Tide data</title>
+		 <geoform>Measured and residuals</geoform>
+		 <onlink>http://www.channelcoast.org</onlink>
+		 <protitle>Southeast Strategic Regional Coastal Monitoring Programme</protitle>
+		 <proorg>Channel Coast Observatory</proorg>
+	   </citeinfo>
+	 </citation>
+	 <descript>
+	   <abstract>
+Channel Coastal Observatory
+Tide data
+Measured and residuals
+20100127
+
+</abstract>
+	   <purpose>Information for SMP, general coastal management and particular schemes such as saltmarsh studies, soft cliff movements, beach processes.</purpose>
+	 </descript>
+	 <timeperd>
+	   <timeinfo>
+		 <rngdates>
+		   <begdate>20090101</begdate>
+		   <enddate>20091231</enddate>
+		 </rngdates>
+	   </timeinfo>
+	   <current>N/A</current>
+	 </timeperd>
+	 <status>
+	   <progress>Complete</progress>
+	   <update>annually</update>
+	 </status>
+	 <spdom>
+	   <bounding>
+		 <westbc>-1.5066727399826</westbc>
+		 <eastbc>-1.50467264652252</eastbc>
+		 <northbc>50.7414321899414</northbc>
+		 <southbc>50.739429473877</southbc>
+	   </bounding>
+	 </spdom>
+	 <keywords>
+	   <theme>
+		 <themekt>Tide, residuals, surge, tidal elevation</themekt>
+		 <themekey>Tide, residuals, surge, tidal elevation</themekey>
+	   </theme>
+	   <place>
+		 <placekt>Tide data</placekt>
+		 <placekey>Tide data</placekey>
+	   </place>
+	 </keywords>
+	 <accconst>None - Public data</accconst>
+	 <useconst>http://www.channelcoast.org/?link=disclaimer.html</useconst>
+   </idinfo>
+   <dataqual>
+	 <attracc>
+	   <attraccr>Global Sea Level Observing System (GLOSS)</attraccr>
+	   <qattracc>
+		 <attraccv>Tidal elevation accuracy +/- 0.01m</attraccv>
+		 <attracce>Specification of manufacture</attracce>
+	   </qattracc>
+	 </attracc>
+	 <logic>Data flag, no data removed. Flag can be 1 (correct value), 2 (interpolated), 3 (doubtful), 4 (isolated spike or wrong value), 5 (correct but extreme), 6 (reference change detected), 7 (constant value), 8 (out of range) or 9 (missing)</logic>
+	 <complete>The time series is complete and monotonic. Missing data are given as 9999</complete>
+	 <lineage>
+	   <procstep>
+		 <procdesc>Data has been quality controlled</procdesc>
+		 <procdate>N/A</procdate>
+	   </procstep>
+	 </lineage>
+   </dataqual>
+   <spref>
+	 <horizsys>
+	   <planar>
+		 <gridsys>
+		   <gridsysn>UK National Grid (OSGB36 ODN)</gridsysn>
+		   <othergrd>Datum= OSGB36, Projection= TMOSGB, Cellsize_units= metres, proj_name=TMOSGB , type=tranmerc, metre_factor=1, radius=6377563.396, eccentricity=0.0816733738741, flattening=299.3249646, prime_merid=1, false_north=-100000, false_east=400000, scale_factor=0.999601272, centre_merid=-0.0349065850399, centre_lat=0.855211333477, datum_name=OSGB36 , description=ORDNANCE SURVEY 1936, spheroid_name=AIRY , merid_id=1, origin_name=HERSTMONCEUX , origin_lat=50.8653531, origin_long=0.3460783, angle_id=1, origin_height=0, height_id=1, usearea_id=1, ref_datum=, =, visibility=SURVEY, release=PUBLIC</othergrd>
+		 </gridsys>
+		 <planci>
+		   <plance>row and column</plance>
+		   <coordrep>
+			 <absres>0.001</absres>
+			 <ordres>0.001</ordres>
+		   </coordrep>
+		   <plandu> metres</plandu>
+		 </planci>
+	   </planar>
+	   <planar>
+		 <mapproj>
+		   <mapprojn>Transverse Mercator</mapprojn>
+		   <transmer>
+			 <sfctrmer>0.999601272</sfctrmer>
+			 <longcm>-0.0349065850399</longcm>
+			 <latprjo>0.855211333477</latprjo>
+			 <feast>400000</feast>
+			 <fnorth>-100000</fnorth>
+		   </transmer>
+		 </mapproj>
+		 <planci>
+		   <plance>row and column</plance>
+		   <coordrep>
+			 <absres>0.001</absres>
+			 <ordres>0.001</ordres>
+		   </coordrep>
+		   <plandu> metres</plandu>
+		 </planci>
+	   </planar>
+	   <geodetic>
+		 <horizdn>OSGB36 </horizdn>
+		 <ellips>AIRY </ellips>
+		 <semiaxis>0.855211333477</semiaxis>
+		 <denflat>299.3249646</denflat>
+	   </geodetic>
+	 </horizsys>
+	 <vertdef>
+	   <depthsys>
+	 	 <depthdn>Ordnance Datum Newlyn</depthdn>
+	 	 <depthres>0.001</depthres>
+	 	 <depthdu>metres</depthdu>
+	 	 <depthem>row and column</depthem>
+	   </depthsys>
+	 </vertdef>
+   </spref>
+   <eainfo>
+	 <detailed>
+	   <enttyp>
+		 <enttypl>N/A</enttypl>
+		 <enttypd>N/A</enttypd>
+		 <enttypds>N/A</enttypds>
+	   </enttyp>
+	   <attr>
+		 <attrlabl>Duration measurement information</attrlabl>
+		 <attrdef>N/A</attrdef>
+		 <attrdefs>N/A</attrdefs>
+		 <attrdomv>
+		   <rdom>
+			 <rdommin>1</rdommin>
+			 <rdommax>1</rdommax>
+			 <attrunit>minutes</attrunit>
+			 <attrmres>N/A</attrmres>
+		   </rdom>
+		 </attrdomv>
+	   </attr>
+	   <attr>
+		 <attrlabl>Period measurement information</attrlabl>
+		 <attrdef>N/A</attrdef>
+		 <attrdefs>N/A</attrdefs>
+		 <attrdomv>
+		   <rdom>
+			 <rdommin>10</rdommin>
+			 <rdommax>10</rdommax>
+			 <attrunit>minutes</attrunit>
+			 <attrmres>N/A</attrmres>
+		   </rdom>
+		 </attrdomv>
+	   </attr>
+	   <attr>
+		 <attrlabl>Tide Height (tidal elevation)</attrlabl>
+		 <attrdef>N/A</attrdef>
+		 <attrdefs>N/A</attrdefs>
+		 <attrdomv>
+		   <rdom>
+			 <rdommin>-0.10m CD</rdommin>
+			 <rdommax>5.90m CD</rdommax>
+			 <attrunit>metres</attrunit>
+			 <attrmres>N/A</attrmres>
+		   </rdom>
+		 </attrdomv>
+	   </attr>
+	   <attr>
+		 <attrlabl>Tide Residual</attrlabl>
+		 <attrdef>N/A</attrdef>
+		 <attrdefs>N/A</attrdefs>
+		 <attrdomv>
+		   <rdom>
+			 <rdommin>-3</rdommin>
+			 <rdommax>3</rdommax>
+			 <attrunit>metres</attrunit>
+			 <attrmres>N/A</attrmres>
+		   </rdom>
+		 </attrdomv>
+	   </attr>
+
+	 </detailed>
+   </eainfo>
+   <distinfo>
+	 <distrib><cntinfo>
+          <cntperp>
+            <cntper>Travis Mason</cntper>
+            <cntorg>Channel Coastal Observatory</cntorg>
+          </cntperp>
+          <cntaddr> 
+            <addrtype>N/A</addrtype>
+            <address>Channel Coastal Observatory, National Oceanography Centre, Southampton, European Way</address>
+            <city>Southampton</city>
+            <state>Hampshire</state>
+            <postal>SO14 3ZH</postal>
+            <country>UK</country> 
+          </cntaddr> 
+          <cntvoice>+44 (0)2380 598467</cntvoice>
+          <cntfax>+44 (0)2380 596320</cntfax>
+          <cntemail>cco@channelcoast.org</cntemail>
+        </cntinfo></distrib><distliab>N/A</distliab>
+	 <stdorder>
+	   <digform>
+		 <digtinfo>
+		   <formname>ASCII txt</formname>
+		   <formcont>Tabular time series of measurements</formcont>
+		 </digtinfo>
+		 <digtopt>
+		   <onlinopt>
+			 <computer>
+			   <networka>
+				 <networkr>http://www.channelcoast.org/data_management/online_data_catalogue/metadata/search/index.php?action=view_metadata&amp;id=193311</networkr>
+			   </networka>
+			 </computer>
+			 <accinstr>Register on-line as a new user</accinstr>
+		   </onlinopt>
+		 </digtopt>
+	   </digform>
+	   <fees>Data available free of charge</fees>
+	   <ordering>Processed digital data available</ordering>
+	 </stdorder>
+   </distinfo>
+   <metainfo>
+	 <metd>20100127</metd>
+	 <metcolby>Channel Coastal Observatory</metcolby>
+	 <metcom>Parameter is averaged over 1 minute burst; sampling rate of burst is 2.56Hz. Time stamp is start of measurement burst</metcom>
+	 <metstdn>FGDC Content Standard for Geospatial Metadata</metstdn>
+	 <metstdv>FGDC-STD-001-1998</metstdv>
+     <metc><cntinfo><cntperp><cntper>Travis Mason</cntper><cntorg>Channel Coastal Observatory</cntorg></cntperp><cntaddr><addrtype>N/A</addrtype><address>National Oceanography Centre, European Way</address><city>Southampton</city><state>Hampshire</state><postal>SO14 3ZH</postal><country>UK</country></cntaddr><cntvoice>02380 598467</cntvoice><cntfax>02380 596320</cntfax><cntemail>tem@noc.soton.ac.uk</cntemail></cntinfo></metc>
+   </metainfo>
+ </metadata>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<xsl:include href="registration.xml"/><xsl:template match="//metadata"><html><head><title>Metadata</title>
+    <link rel="stylesheet" type="text/css" href="../stylesheets/css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="../stylesheets/css/map.css"/>
+    <link rel="stylesheet" type="text/css" href="../stylesheets/css/search.css"/>
+	<link rel="stylesheet" type="text/css" href="../stylesheets/css/download_metadata.css"/></head><body><h3><xsl:value-of select="idinfo/citation/citeinfo/title"/></h3><table class="results data" summary="Metadata details" cellpadding="4" cellspacing="0">
+<xsl:apply-templates select="idinfo"/>
+<xsl:apply-templates select="dataqual"/>
+<xsl:apply-templates select="spref"/>
+<xsl:apply-templates select="eainfo"/>
+<xsl:apply-templates select="distinfo"/>
+<xsl:apply-templates select="metainfo"/>
+<xsl:apply-templates select="metainfo/metc"/></table></body></html></xsl:template>
+<xsl:template match="idinfo"><tr><th colspan="2">General Information</th></tr>
+<xsl:apply-templates select="ccoinfo"/>
+<xsl:apply-templates select="citation"/>
+<xsl:apply-templates select="descript"/>
+<xsl:apply-templates select="timeperd"/>
+<xsl:apply-templates select="status"/>
+<xsl:apply-templates select="spdom"/>
+<xsl:apply-templates select="keywords"/>
+<xsl:apply-templates select="accconst"/>
+<xsl:apply-templates select="useconst"/>
+</xsl:template>
+  <xsl:template match="ccoinfo">  <xsl:apply-templates select="coastgrp"/>
+  <xsl:apply-templates select="geogkw"/>
+  <xsl:apply-templates select="manunit"/>
+  <xsl:apply-templates select="cell"/>
+  <xsl:apply-templates select="survey"/>
+  </xsl:template>    <xsl:template match="coastgrp">    <tr><td class="name">Coastal Group:</td><td class="value"><xsl:value-of select="."/></td></tr>
+    </xsl:template>    <xsl:template match="geogkw">    <tr><td class="name">Geographic Keywords:</td><td class="value"><xsl:value-of select="."/></td></tr>
+    </xsl:template>    <xsl:template match="manunit">    <tr><td class="name">Management Unit:</td><td class="value"><xsl:value-of select="."/></td></tr>
+    </xsl:template>    <xsl:template match="cell">    <tr><td class="name">Cell:</td><td class="value"><xsl:value-of select="."/></td></tr>
+    </xsl:template>    <xsl:template match="survey">    <xsl:apply-templates select="waves"/>
+    </xsl:template>      <xsl:template match="waves">      <xsl:apply-templates select="buoyloc"/>
+      <xsl:apply-templates select="wbuoyman"/>
+      <xsl:apply-templates select="wbuoymod"/>
+      </xsl:template>        <xsl:template match="buoyloc">        <tr><td class="name">Location of wave buoy:</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>        <xsl:template match="wbuoyman">        <tr><td class="name">Wave Buoy Manufacturer</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>        <xsl:template match="wbuoymod">        <tr><td class="name">Wave Buoy Model</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>  <xsl:template match="citation">  <xsl:apply-templates select="citeinfo"/>
+  </xsl:template>    <xsl:template match="citeinfo">    <xsl:apply-templates select="origin"/>
+    <xsl:apply-templates select="pubdate"/>
+    <xsl:apply-templates select="title"/>
+    <xsl:apply-templates select="geoform"/>
+    <xsl:apply-templates select="onlink"/>
+    <xsl:apply-templates select="protitle"/>
+    <xsl:apply-templates select="proorg"/>
+    </xsl:template>      <xsl:template match="origin">      <tr><td class="name">Data owned by:</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="pubdate">      <tr><td class="name">Publication date (YYYYMMDD)</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="title">      <tr><td class="name">Title of data set:</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="geoform">      <tr><td class="name">Type of wave data:</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="onlink">      <tr><td class="name">Link</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="protitle">      <tr><td class="name">Project Title</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="proorg">      <tr><td class="name">The organistaion responsible for the larger work</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>  <xsl:template match="descript">  <xsl:apply-templates select="abstract"/>
+  <xsl:apply-templates select="purpose"/>
+  </xsl:template>    <xsl:template match="abstract">    <tr><td class="name">Abstract</td><td class="value"><xsl:value-of select="."/></td></tr>
+    </xsl:template>    <xsl:template match="purpose">    <tr><td class="name">Purpose of data collection:</td><td class="value"><xsl:value-of select="."/></td></tr>
+    </xsl:template>  <xsl:template match="timeperd">  <xsl:apply-templates select="timeinfo"/>
+  <xsl:apply-templates select="current"/>
+  </xsl:template>    <xsl:template match="timeinfo">    <xsl:apply-templates select="rngdates"/>
+    </xsl:template>      <xsl:template match="rngdates">      <xsl:apply-templates select="begdate"/>
+      <xsl:apply-templates select="enddate"/>
+      </xsl:template>        <xsl:template match="begdate">        <tr><td class="name">Start date of wave data collection (YYYYMMDD):</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>        <xsl:template match="enddate">        <tr><td class="name">End date of wave data collection (YYYYMMDD):</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>    <xsl:template match="current">    <tr><td class="name">Currentness Reference</td><td class="value"><xsl:value-of select="."/></td></tr>
+    </xsl:template>  <xsl:template match="status">  <xsl:apply-templates select="progress"/>
+  <xsl:apply-templates select="update"/>
+  </xsl:template>    <xsl:template match="progress">    <tr><td class="name">Survey progress:</td><td class="value"><xsl:value-of select="."/></td></tr>
+    </xsl:template>    <xsl:template match="update">    <tr><td class="name">Update due:</td><td class="value"><xsl:value-of select="."/></td></tr>
+    </xsl:template>  <xsl:template match="spdom">  <xsl:apply-templates select="bounding"/>
+  </xsl:template>    <xsl:template match="bounding">    <xsl:apply-templates select="westbc"/>
+    <xsl:apply-templates select="eastbc"/>
+    <xsl:apply-templates select="northbc"/>
+    <xsl:apply-templates select="southbc"/>
+    </xsl:template>      <xsl:template match="westbc">      <tr><td class="name">Min easting</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="eastbc">      <tr><td class="name">Max Easting</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="northbc">      <tr><td class="name">Max Northing</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="southbc">      <tr><td class="name">Min Northing</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>  <xsl:template match="keywords">  <xsl:apply-templates select="theme"/>
+  <xsl:apply-templates select="place"/>
+  </xsl:template>    <xsl:template match="theme">    <xsl:apply-templates select="themekt"/>
+    <xsl:apply-templates select="themekey"/>
+    </xsl:template>      <xsl:template match="themekt">      <tr><td class="name">Theme Keywords Thesaurus</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="themekey">      <tr><td class="name">Theme Keywords</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>    <xsl:template match="place">    <xsl:apply-templates select="placekt"/>
+    <xsl:apply-templates select="placekey"/>
+    </xsl:template>      <xsl:template match="placekt">      <tr><td class="name">Place Keyword Thesaurus</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="placekey">      <tr><td class="name">Place Keyword</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>  <xsl:template match="accconst">  <tr><td class="name">Access Constraints</td><td class="value"><xsl:value-of select="."/></td></tr>
+  </xsl:template>  <xsl:template match="useconst">  <tr><td class="name">Usage Constraints</td><td class="value"><xsl:value-of select="."/></td></tr>
+  </xsl:template><xsl:template match="dataqual"><tr><th colspan="2">Quality Information</th></tr>
+<xsl:apply-templates select="attracc"/>
+<xsl:apply-templates select="logic"/>
+<xsl:apply-templates select="complete"/>
+<xsl:apply-templates select="lineage"/>
+</xsl:template>
+  <xsl:template match="attracc">  <xsl:apply-templates select="attraccr"/>
+  <xsl:apply-templates select="qattracc"/>
+  </xsl:template>    <xsl:template match="attraccr">    <tr><td class="name">Measurement standard used for data collection:</td><td class="value"><xsl:value-of select="."/></td></tr>
+    </xsl:template>    <xsl:template match="qattracc">    <xsl:apply-templates select="attraccv"/>
+    <xsl:apply-templates select="attracce"/>
+    </xsl:template>      <xsl:template match="attraccv">      <tr><td class="name">Estimated accuracy of dataset:</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="attracce">      <tr><td class="name">Explanation of accuracy</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>  <xsl:template match="logic">  <tr><td class="name">Data integrity:</td><td class="value"><xsl:value-of select="."/></td></tr>
+  </xsl:template>  <xsl:template match="complete">  <tr><td class="name">Completeness of data:</td><td class="value"><xsl:value-of select="."/></td></tr>
+  </xsl:template>  <xsl:template match="lineage">  <xsl:apply-templates select="procstep"/>
+  </xsl:template>    <xsl:template match="procstep">    <xsl:apply-templates select="procdesc"/>
+    <xsl:apply-templates select="procdate"/>
+    </xsl:template>      <xsl:template match="procdesc">      <tr><td class="name">Has data been processed in any way?</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="procdate">      <tr><td class="name">Process Date (YYYYMMDD)</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template><xsl:template match="spref"><tr><th colspan="2">Spatial Information</th></tr>
+<xsl:apply-templates select="horizsys"/>
+<xsl:apply-templates select="vertdef"/>
+</xsl:template>
+  <xsl:template match="horizsys">  <xsl:apply-templates select="planar"/>
+  </xsl:template>    <xsl:template match="planar">    <xsl:apply-templates select="gridsys"/>
+    <xsl:apply-templates select="planci"/>
+    </xsl:template>      <xsl:template match="gridsys">      <xsl:apply-templates select="gridsysn"/>
+      <xsl:apply-templates select="othergrd"/>
+      </xsl:template>        <xsl:template match="gridsysn">        <tr><td class="name">Grid system used to spatial reference the data</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>        <xsl:template match="othergrd">        <tr><td class="name">Other Grid Systems Definition</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>      <xsl:template match="planci">      <xsl:apply-templates select="plance"/>
+      <xsl:apply-templates select="coordrep"/>
+      <xsl:apply-templates select="plandu"/>
+      </xsl:template>        <xsl:template match="plance">        <tr><td class="name">Co-ordinate type</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>        <xsl:template match="coordrep">        <xsl:apply-templates select="absres"/>
+        <xsl:apply-templates select="ordres"/>
+        </xsl:template>          <xsl:template match="absres">          <tr><td class="name">Resolution of X-axis</td><td class="value"><xsl:value-of select="."/></td></tr>
+          </xsl:template>          <xsl:template match="ordres">          <tr><td class="name">Resolution of Y-axis</td><td class="value"><xsl:value-of select="."/></td></tr>
+          </xsl:template>        <xsl:template match="plandu">        <tr><td class="name">Units of coordinate system</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>  <xsl:template match="vertdef">  <xsl:apply-templates select="depthsys"/>
+  </xsl:template>    <xsl:template match="depthsys">    <xsl:apply-templates select="depthdn"/>
+    <xsl:apply-templates select="depthres"/>
+    <xsl:apply-templates select="depthdu"/>
+    <xsl:apply-templates select="depthem"/>
+    </xsl:template>      <xsl:template match="depthdn">      <tr><td class="name">Depth Datum:</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="depthres">      <tr><td class="name">Vertical resolution of measurement</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="depthdu">      <tr><td class="name">Units used for vertical measurement</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="depthem">      <tr><td class="name">Depth Encoding Method</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template><xsl:template match="eainfo"><tr><th colspan="2">Attribute Information</th></tr>
+<xsl:apply-templates select="detailed"/>
+</xsl:template>
+  <xsl:template match="detailed">  <xsl:apply-templates select="enttyp"/>
+  <xsl:apply-templates select="attr"/>
+  </xsl:template>    <xsl:template match="enttyp">    <xsl:apply-templates select="enttypl"/>
+    <xsl:apply-templates select="enttypd"/>
+    <xsl:apply-templates select="enttypds"/>
+    </xsl:template>      <xsl:template match="enttypl">      <tr><td class="name">Entity Type Label</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="enttypd">      <tr><td class="name">Entity Type Definition</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="enttypds">      <tr><td class="name">Entity Type Definition Source</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>    <xsl:template match="attr">    <xsl:apply-templates select="attrlabl"/>
+    <xsl:apply-templates select="attrdef"/>
+    <xsl:apply-templates select="attrdefs"/>
+    <xsl:apply-templates select="attrdomv"/>
+    </xsl:template>      <xsl:template match="attrlabl">      <tr><td class="name">Attribute Label</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="attrdef">      <tr><td class="name">Attribute Definition</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="attrdefs">      <tr><td class="name">Attribute Definition Source</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="attrdomv">      <xsl:apply-templates select="rdom"/>
+      </xsl:template>        <xsl:template match="rdom">        <xsl:apply-templates select="rdommin"/>
+        <xsl:apply-templates select="rdommax"/>
+        <xsl:apply-templates select="attrunit"/>
+        <xsl:apply-templates select="attrmres"/>
+        <xsl:apply-templates select="attr"/>
+        </xsl:template>          <xsl:template match="rdommin">          <tr><td class="name">Range Domain Minimum</td><td class="value"><xsl:value-of select="."/></td></tr>
+          </xsl:template>          <xsl:template match="rdommax">          <tr><td class="name">Range Domain Maximum</td><td class="value"><xsl:value-of select="."/></td></tr>
+          </xsl:template>          <xsl:template match="attrunit">          <tr><td class="name">Attribute Units of Measure</td><td class="value"><xsl:value-of select="."/></td></tr>
+          </xsl:template>          <xsl:template match="attrmres">          <tr><td class="name">Attribute Measurement Resolution</td><td class="value"><xsl:value-of select="."/></td></tr>
+          </xsl:template>          <xsl:template match="attr">          </xsl:template><xsl:template match="distinfo"><tr><th colspan="2">Distribution Information</th></tr>
+<xsl:apply-templates select="distrib"/>
+<xsl:apply-templates select="distliab"/>
+<xsl:apply-templates select="stdorder"/>
+</xsl:template>
+  <xsl:template match="distrib">  <xsl:apply-templates select="cntinfo"/>
+  </xsl:template>    <xsl:template match="cntinfo">    <xsl:apply-templates select="cntperp"/>
+    <xsl:apply-templates select="cntaddr"/>
+    <xsl:apply-templates select="cntvoice"/>
+    <xsl:apply-templates select="cntfax"/>
+    <xsl:apply-templates select="cntemail"/>
+    </xsl:template>      <xsl:template match="cntperp">      <xsl:apply-templates select="cntper"/>
+      <xsl:apply-templates select="cntorg"/>
+      </xsl:template>        <xsl:template match="cntper">        <tr><td class="name">Contact Person</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>        <xsl:template match="cntorg">        <tr><td class="name">The organization to contact to get the data</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>      <xsl:template match="cntaddr">      <xsl:apply-templates select="addrtype"/>
+      <xsl:apply-templates select="address"/>
+      <xsl:apply-templates select="city"/>
+      <xsl:apply-templates select="state"/>
+      <xsl:apply-templates select="postal"/>
+      <xsl:apply-templates select="country"/>
+      </xsl:template>        <xsl:template match="addrtype">        <tr><td class="name">Address Type</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>        <xsl:template match="address">        <tr><td class="name">Address</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>        <xsl:template match="city">        <tr><td class="name">City</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>        <xsl:template match="state">        <tr><td class="name">State or Province</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>        <xsl:template match="postal">        <tr><td class="name">Postal Code</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>        <xsl:template match="country">        <tr><td class="name">Country</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>      <xsl:template match="cntvoice">      <tr><td class="name">Contact Voice Telephone</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="cntfax">      <tr><td class="name">Contact Facsimile Telephone</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>      <xsl:template match="cntemail">      <tr><td class="name">Contact Electronic Mail Address</td><td class="value"><xsl:value-of select="."/></td></tr>
+      </xsl:template>  <xsl:template match="distliab">  <tr><td class="name">Distribution Liability</td><td class="value"><xsl:value-of select="."/></td></tr>
+  </xsl:template>  <xsl:template match="stdorder">  <xsl:apply-templates select="digform"/>
+  <xsl:apply-templates select="fees"/>
+  <xsl:apply-templates select="ordering"/>
+  </xsl:template>    <xsl:template match="digform">    <xsl:apply-templates select="digtinfo"/>
+    <xsl:apply-templates select="digtopt"/>
+    </xsl:template>      <xsl:template match="digtinfo">      <xsl:apply-templates select="formname"/>
+      <xsl:apply-templates select="formcont"/>
+      </xsl:template>        <xsl:template match="formname">        <tr><td class="name">Data formats available</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>        <xsl:template match="formcont">        <tr><td class="name">Description of data format</td><td class="value"><xsl:value-of select="."/></td></tr>
+        </xsl:template>      <xsl:template match="digtopt">      <xsl:apply-templates select="onlinopt"/>
+      </xsl:template>        <xsl:template match="onlinopt">        <xsl:apply-templates select="computer"/>
+        <xsl:apply-templates select="accinstr"/>
+        </xsl:template>          <xsl:template match="computer">          <xsl:apply-templates select="networka"/>
+          </xsl:template>            <xsl:template match="networka">            <xsl:apply-templates select="networkr"/>
+            </xsl:template>              <xsl:template match="networkr">              <tr><td class="name">Network Resource Name</td><td class="value"><xsl:value-of select="."/></td></tr>
+              </xsl:template>          <xsl:template match="accinstr">          <tr><td class="name">Access Instructions</td><td class="value"><xsl:value-of select="."/></td></tr>
+          </xsl:template>    <xsl:template match="fees">    <tr><td class="name">Fees</td><td class="value"><xsl:value-of select="."/></td></tr>
+    </xsl:template>    <xsl:template match="ordering">    <tr><td class="name">Ordering Instruction</td><td class="value"><xsl:value-of select="."/></td></tr>
+    </xsl:template><xsl:template match="metainfo"><tr><th colspan="2">Metadata Information Created On</th></tr>
+<xsl:apply-templates select="metd"/>
+<xsl:apply-templates select="metcolby"/>
+<xsl:apply-templates select="metcom"/>
+<xsl:apply-templates select="metstdn"/>
+<xsl:apply-templates select="metstdv"/>
+</xsl:template>
+  <xsl:template match="metd">  <tr><td class="name">Metadata created on (YYYYMMDD)</td><td class="value"><xsl:value-of select="."/></td></tr>
+  </xsl:template>  <xsl:template match="metcolby">  <tr><td class="name">Data collected by</td><td class="value"><xsl:value-of select="."/></td></tr>
+  </xsl:template>  <xsl:template match="metcom">  <tr><td class="name">Comments</td><td class="value"><xsl:value-of select="."/></td></tr>
+  </xsl:template>  <xsl:template match="metstdn">  <tr><td class="name">Metadata Standard Name</td><td class="value"><xsl:value-of select="."/></td></tr>
+  </xsl:template>  <xsl:template match="metstdv">  <tr><td class="name">Metadata Standard Version</td><td class="value"><xsl:value-of select="."/></td></tr>
+  </xsl:template></xsl:stylesheet>
