@@ -14,6 +14,7 @@ bto <- readOGR(dsn='../../Solent Bird Studies GIS Data/',
 bto %<>% subset(NAME %in% c('Pagham - Harbour', 'Pagham Lagoon', 'Pagham Sea',
                             'North Fields','Severals', 'Sidlesham Ferry') == F)
 
+
 ## make ebird data spatial
 
 spacebird <- SpatialPointsDataFrame(coords=cbind(ebird$LONGITUDE, ebird$LATITUDE), 

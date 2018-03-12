@@ -1,0 +1,9 @@
+readOGR(dsn='../../Solent Bird Studies GIS Data/HIWWT Strategy Layer', layer='SWBGS') # strategy codes
+
+readOGR(dsn='../../Solent Bird Studies GIS Data/Survey results', layer='all_snapshots')
+
+readOGR(dsn='../../Solent Bird Studies GIS Data/Survey results', layer='all_movements2')
+
+readOGR(dsn='../../Solent Bird Studies GIS Data', layer='Solent_sections')
+
+

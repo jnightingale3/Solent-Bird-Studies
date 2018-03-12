@@ -1,0 +1,9 @@
+require(igraph) # for network visualisation only
+require(plyr)
+require(R.utils)
+require(raster)
+library(readr)
+require(rgdal)
+require(rgeos)
+
+require(magrittr) # load last to mask raster::extract()
