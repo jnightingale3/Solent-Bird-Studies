@@ -1,0 +1,613 @@
+"Site_code","Date","V1"
+"Appledram",2014-01-29,TRUE
+"Appledram",2015-01-24,FALSE
+"Appledram",2015-02-01,FALSE
+"Appledram",2015-02-07,TRUE
+"Appledram",2015-02-15,FALSE
+"Appledram",2015-03-10,TRUE
+"Appledram",2016-01-24,TRUE
+"Appledram",2016-02-10,FALSE
+"Avon Water",2014-11-25,TRUE
+"Avon Water",2014-12-09,NA
+"Avon Water",2015-01-21,TRUE
+"Avon Water",2015-02-19,TRUE
+"Avon Water",2015-12-04,FALSE
+"Avon Water",2015-12-12,TRUE
+"Avon Water",2015-12-23,NA
+"Avon Water",2016-01-03,NA
+"Avon Water",2016-01-04,NA
+"Avon Water",2016-01-05,NA
+"Avon Water",2016-01-06,NA
+"Avon Water",2016-01-07,NA
+"Avon Water",2016-01-09,TRUE
+"Avon Water",2016-01-10,TRUE
+"Avon Water",2016-01-11,TRUE
+"Avon Water",2016-01-12,TRUE
+"Avon Water",2016-01-13,TRUE
+"Avon Water",2016-01-15,NA
+"Avon Water",2016-01-22,TRUE
+"Avon Water",2016-01-23,TRUE
+"Avon Water",2016-01-25,TRUE
+"Avon Water",2016-01-26,TRUE
+"Avon Water",2016-01-27,TRUE
+"Avon Water",2016-01-28,TRUE
+"Avon Water",2016-01-29,TRUE
+"Avon Water",2016-01-31,TRUE
+"Avon Water",2016-02-01,TRUE
+"Avon Water",2016-02-02,TRUE
+"Avon Water",2016-02-04,NA
+"Avon Water",2016-02-18,TRUE
+"Avon Water",2016-02-20,TRUE
+"Avon Water",2016-02-22,TRUE
+"Avon Water",2016-03-01,TRUE
+"Birdham",2015-01-29,FALSE
+"Birdham",2016-01-18,FALSE
+"Birdham",2016-01-24,FALSE
+"Birdham",2017-01-25,NA
+"Bosham_b",2013-01-28,FALSE
+"Bosham_b",2016-01-25,TRUE
+"Bosham_b",2017-01-25,FALSE
+"Church Norton",2016-01-11,NA
+"Church Norton",2016-03-10,TRUE
+"Conigar Point",2012-12-19,TRUE
+"Conigar Point",2013-02-11,TRUE
+"Conigar Point",2014-01-18,NA
+"Conigar Point",2014-02-01,TRUE
+"Conigar Point",2014-02-28,FALSE
+"Conigar Point",2014-03-07,TRUE
+"Conigar Point",2016-01-23,NA
+"Conigar Point",2016-01-26,TRUE
+"Conigar Point",2017-02-28,FALSE
+"Conigar Point",2017-03-01,NA
+"Conigar Point",2017-03-10,TRUE
+"Ella Nore",2016-02-10,TRUE
+"Farlington marsh",2012-01-17,NA
+"Farlington marsh",2012-11-06,TRUE
+"Farlington marsh",2012-11-28,TRUE
+"Farlington marsh",2013-01-25,NA
+"Farlington marsh",2013-02-06,NA
+"Farlington marsh",2013-02-09,NA
+"Farlington marsh",2013-11-19,TRUE
+"Farlington marsh",2013-11-22,TRUE
+"Farlington marsh",2013-12-18,TRUE
+"Farlington marsh",2014-12-09,FALSE
+"Farlington marsh",2015-10-02,TRUE
+"Farlington marsh",2015-10-09,TRUE
+"Farlington marsh",2015-10-14,TRUE
+"Farlington marsh",2015-10-19,TRUE
+"Farlington marsh",2015-10-20,TRUE
+"Farlington marsh",2015-10-27,TRUE
+"Farlington marsh",2015-10-28,TRUE
+"Farlington marsh",2015-10-29,TRUE
+"Farlington marsh",2015-11-01,FALSE
+"Farlington marsh",2015-11-09,TRUE
+"Farlington marsh",2015-11-10,TRUE
+"Farlington marsh",2015-11-11,TRUE
+"Farlington marsh",2015-11-16,TRUE
+"Farlington marsh",2015-11-23,FALSE
+"Farlington marsh",2015-11-25,TRUE
+"Farlington marsh",2015-11-26,TRUE
+"Farlington marsh",2015-11-28,TRUE
+"Farlington marsh",2015-12-01,TRUE
+"Farlington marsh",2015-12-08,TRUE
+"Farlington marsh",2015-12-10,TRUE
+"Farlington marsh",2015-12-12,TRUE
+"Farlington marsh",2015-12-17,TRUE
+"Farlington marsh",2015-12-21,FALSE
+"Farlington marsh",2015-12-26,FALSE
+"Farlington marsh",2015-12-31,TRUE
+"Farlington marsh",2016-01-05,FALSE
+"Farlington marsh",2016-01-12,TRUE
+"Farlington marsh",2016-01-14,TRUE
+"Farlington marsh",2016-01-17,FALSE
+"Farlington marsh",2016-01-23,TRUE
+"Farlington marsh",2016-01-25,TRUE
+"Farlington marsh",2016-01-28,TRUE
+"Farlington marsh",2016-02-02,FALSE
+"Farlington marsh",2016-02-08,TRUE
+"Farlington marsh",2016-02-10,TRUE
+"Farlington marsh",2016-02-14,TRUE
+"Farlington marsh",2016-02-23,TRUE
+"Farlington marsh",2016-02-29,TRUE
+"Farlington marsh",2016-03-08,TRUE
+"Farlington marsh",2016-03-22,TRUE
+"Farlington marsh",2016-03-30,TRUE
+"Farlington marsh",2016-10-18,TRUE
+"Farlington marsh",2016-10-21,FALSE
+"Farlington marsh",2016-10-28,TRUE
+"Farlington marsh",2016-10-31,TRUE
+"Farlington marsh",2016-11-01,TRUE
+"Farlington marsh",2016-11-03,TRUE
+"Farlington marsh",2016-11-17,TRUE
+"Farlington marsh",2016-11-22,FALSE
+"Farlington marsh",2016-11-28,TRUE
+"Farlington marsh",2016-11-30,TRUE
+"Farlington marsh",2016-12-04,TRUE
+"Farlington marsh",2016-12-14,TRUE
+"Farlington marsh",2016-12-15,TRUE
+"Farlington marsh",2016-12-16,TRUE
+"Farlington marsh",2016-12-20,FALSE
+"Farlington marsh",2016-12-21,FALSE
+"Farlington marsh",2017-01-17,TRUE
+"Farlington marsh",2017-01-19,TRUE
+"Farlington marsh",2017-01-27,TRUE
+"Farlington marsh",2017-01-30,TRUE
+"Farlington marsh",2017-02-01,TRUE
+"Farlington marsh",2017-02-03,TRUE
+"Farlington marsh",2017-02-13,TRUE
+"Farlington marsh",2017-02-14,TRUE
+"Farlington marsh",2017-02-28,TRUE
+"Farlington marsh",2017-03-03,TRUE
+"Farlington marsh",2017-03-04,NA
+"Farlington marsh",2017-03-05,TRUE
+"Farlington marsh",2017-03-14,TRUE
+"Farlington marsh",2017-03-16,FALSE
+"Farlington marsh",2017-03-27,TRUE
+"Fishbourne_a",2013-01-24,FALSE
+"Fishbourne_a",2014-01-29,TRUE
+"Fishbourne_a",2014-02-18,TRUE
+"Fishbourne_a",2015-11-06,TRUE
+"Fishbourne_a",2017-02-10,FALSE
+"Fishbourne_b",2015-10-26,NA
+"Fleet",2017-01-17,TRUE
+"Fleet",2017-02-01,TRUE
+"Fleet",2017-02-09,TRUE
+"Hook Lake",2015-10-23,TRUE
+"Hook Lake",2015-10-27,TRUE
+"Hook Lake",2015-11-04,TRUE
+"Hook Lake",2015-11-06,FALSE
+"Hook Lake",2015-11-09,TRUE
+"Hook Lake",2015-11-18,TRUE
+"Hook Lake",2015-11-24,TRUE
+"Hook Lake",2015-12-07,TRUE
+"Hook Lake",2015-12-18,TRUE
+"Hook Lake",2015-12-23,TRUE
+"Hook Lake",2015-12-28,FALSE
+"Hook Lake",2015-12-30,TRUE
+"Hook Lake",2016-01-12,TRUE
+"Hook Lake",2016-01-18,TRUE
+"Hook Lake",2016-02-05,TRUE
+"Hook Lake",2016-02-09,TRUE
+"Hook Lake",2016-02-13,TRUE
+"Hook Lake",2016-02-29,TRUE
+"Hook Lake",2016-03-08,TRUE
+"Hook Lake",2016-03-22,TRUE
+"Hook Lake",2016-12-26,TRUE
+"Hook Lake",2017-01-25,TRUE
+"Hook Lake",2017-02-24,NA
+"Hook Lake",2017-03-03,TRUE
+"Hook Lake",2017-03-20,TRUE
+"Horse Pond",2014-12-11,FALSE
+"Horse Pond",2016-02-25,TRUE
+"Itchenor",2016-01-22,TRUE
+"Keyhaven_Pen_a",2015-12-04,FALSE
+"Keyhaven_Pen_a",2015-12-27,TRUE
+"Keyhaven_Pen_a",2016-01-19,FALSE
+"Keyhaven_Pen_a",2016-11-15,FALSE
+"Keyhaven_Pen_b",2015-01-20,TRUE
+"Keyhaven_Pen_b",2015-02-19,TRUE
+"Keyhaven_Pen_b",2015-11-22,FALSE
+"Keyhaven_Pen_b",2015-11-24,FALSE
+"Keyhaven_Pen_b",2015-12-04,FALSE
+"Keyhaven_Pen_b",2015-12-17,FALSE
+"Keyhaven_Pen_b",2015-12-24,FALSE
+"Keyhaven_Pen_b",2015-12-27,FALSE
+"Keyhaven_Pen_b",2015-12-29,TRUE
+"Keyhaven_Pen_b",2016-01-06,NA
+"Keyhaven_Pen_b",2016-03-06,TRUE
+"Keyhaven_Pen_b",2016-11-09,FALSE
+"Keyhaven_Pen_b",2016-11-15,FALSE
+"Keyhaven_Pen_b",2016-11-29,TRUE
+"Keyhaven_Pen_b",2016-12-14,TRUE
+"Keyhaven_Pen_b",2017-01-13,TRUE
+"Keyhaven_Pen_b",2017-01-19,TRUE
+"Medmerry",2015-11-27,NA
+"Newtown",2012-11-12,TRUE
+"Newtown",2012-11-15,TRUE
+"Newtown",2012-12-11,TRUE
+"Newtown",2013-01-24,TRUE
+"Newtown",2013-02-28,TRUE
+"Newtown",2013-03-28,NA
+"Newtown",2013-11-23,FALSE
+"Newtown",2013-12-05,FALSE
+"Newtown",2014-01-16,TRUE
+"Newtown",2014-02-13,TRUE
+"Newtown",2014-03-14,TRUE
+"Newtown",2016-01-30,FALSE
+"Newtown",2016-03-05,FALSE
+"Newtown",2017-02-01,NA
+"North Common",2013-01-15,TRUE
+"North Common",2013-02-24,FALSE
+"North Common",2013-03-16,TRUE
+"North Common",2014-01-09,NA
+"North Common",2014-01-14,FALSE
+"North Common",2014-01-15,TRUE
+"North Common",2014-02-09,FALSE
+"North Common",2014-03-03,FALSE
+"North Common",2014-12-22,FALSE
+"North Common",2015-01-12,NA
+"North Common",2015-01-26,TRUE
+"North Common",2015-11-24,NA
+"North Common",2015-12-01,TRUE
+"North Common",2015-12-14,TRUE
+"North Common",2015-12-18,TRUE
+"North Common",2015-12-22,FALSE
+"North Common",2015-12-23,FALSE
+"North Common",2016-01-12,NA
+"North Common",2016-01-14,TRUE
+"North Common",2016-01-23,FALSE
+"North Common",2016-01-24,FALSE
+"North Common",2016-01-25,TRUE
+"North Common",2016-02-13,TRUE
+"North Common",2016-02-24,TRUE
+"North Common",2016-11-30,TRUE
+"North Common",2017-01-11,TRUE
+"North Common",2017-01-14,FALSE
+"North Common",2017-01-21,FALSE
+"North Common",2017-01-31,TRUE
+"North Common",2017-02-01,NA
+"North Common",2017-02-08,FALSE
+"North Common",2017-02-09,TRUE
+"North Common",2017-02-14,TRUE
+"North Common",2017-02-28,TRUE
+"Northney Farm",2012-12-05,FALSE
+"Northney Farm",2013-01-22,FALSE
+"Northney Farm",2013-03-03,FALSE
+"Northney Farm",2013-03-12,FALSE
+"Northney Farm",2013-03-14,TRUE
+"Northney Farm",2013-03-16,TRUE
+"Northney Farm",2014-01-04,TRUE
+"Northney Farm",2014-01-05,TRUE
+"Northney Farm",2014-10-27,TRUE
+"Northney Farm",2015-01-10,TRUE
+"Northney Farm",2015-01-26,TRUE
+"Northney Farm",2015-11-24,TRUE
+"Northney Farm",2015-12-01,TRUE
+"Northney Farm",2015-12-14,TRUE
+"Northney Farm",2015-12-18,TRUE
+"Northney Farm",2015-12-23,FALSE
+"Northney Farm",2016-01-14,TRUE
+"Northney Farm",2016-01-23,TRUE
+"Northney Farm",2016-01-24,FALSE
+"Northney Farm",2016-01-25,TRUE
+"Northney Farm",2016-02-12,TRUE
+"Northney Farm",2016-02-13,TRUE
+"Northney Farm",2016-11-09,TRUE
+"Northney Farm",2016-12-14,TRUE
+"Northney Farm",2017-01-27,TRUE
+"Northney Farm",2017-02-01,NA
+"Northney Farm",2017-02-09,TRUE
+"Northney Farm",2017-03-03,TRUE
+"Northney Farm",2017-03-05,TRUE
+"Northney Farm",2017-03-11,FALSE
+"Nutbourne",2013-01-14,TRUE
+"Nutbourne",2013-02-04,TRUE
+"Nutbourne",2013-02-13,TRUE
+"Nutbourne",2013-02-14,TRUE
+"Nutbourne",2013-02-19,FALSE
+"Nutbourne",2013-11-16,TRUE
+"Nutbourne",2014-01-14,FALSE
+"Nutbourne",2014-01-16,FALSE
+"Nutbourne",2014-01-20,TRUE
+"Nutbourne",2014-01-21,TRUE
+"Nutbourne",2014-01-29,FALSE
+"Nutbourne",2014-02-01,TRUE
+"Nutbourne",2014-02-04,FALSE
+"Nutbourne",2014-02-11,FALSE
+"Nutbourne",2014-02-12,FALSE
+"Nutbourne",2014-02-15,FALSE
+"Nutbourne",2014-02-18,FALSE
+"Nutbourne",2014-02-23,FALSE
+"Nutbourne",2014-02-26,TRUE
+"Nutbourne",2014-03-02,FALSE
+"Nutbourne",2014-03-04,TRUE
+"Nutbourne",2014-03-05,TRUE
+"Nutbourne",2014-11-08,TRUE
+"Nutbourne",2014-12-06,TRUE
+"Nutbourne",2014-12-29,TRUE
+"Nutbourne",2015-12-26,FALSE
+"Nutbourne",2016-01-26,TRUE
+"Nutbourne",2016-02-14,TRUE
+"Nutbourne",2016-02-20,FALSE
+"Nutbourne",2016-02-29,TRUE
+"Nutbourne",2016-03-12,TRUE
+"Nutbourne",2016-12-27,FALSE
+"Nutbourne",2017-01-28,FALSE
+"Portchester Rec",2013-11-19,TRUE
+"Portchester Rec",2013-12-18,TRUE
+"Portchester Rec",2014-01-15,TRUE
+"Portchester Rec",2014-02-28,TRUE
+"Portchester Rec",2014-03-27,TRUE
+"Portchester Rec",2015-11-26,FALSE
+"Portchester Rec",2015-12-28,TRUE
+"Portchester Rec",2016-01-13,TRUE
+"Portchester Rec",2016-01-28,FALSE
+"Portchester Rec",2016-02-20,TRUE
+"Portchester Rec",2016-03-28,TRUE
+"Portchester Rec",2017-01-27,TRUE
+"Pounds Marsh",2015-01-24,TRUE
+"Pounds Marsh",2016-01-14,TRUE
+"Pounds Marsh",2016-03-11,TRUE
+"Pounds Marsh",2016-03-21,TRUE
+"Prinstead",2013-01-14,TRUE
+"Prinstead",2013-01-24,FALSE
+"Prinstead",2013-01-28,FALSE
+"Prinstead",2013-02-04,TRUE
+"Prinstead",2013-02-13,TRUE
+"Prinstead",2013-03-01,TRUE
+"Prinstead",2013-03-07,FALSE
+"Prinstead",2013-03-29,TRUE
+"Prinstead",2013-12-07,TRUE
+"Prinstead",2013-12-14,FALSE
+"Prinstead",2014-01-04,TRUE
+"Prinstead",2014-11-08,TRUE
+"Prinstead",2015-10-18,TRUE
+"Prinstead",2015-12-29,TRUE
+"Prinstead",2016-02-16,TRUE
+"Prinstead",2017-01-25,TRUE
+"Prinstead",2017-02-01,TRUE
+"Saltgrass Lane",2014-11-25,FALSE
+"Saltgrass Lane",2015-02-19,FALSE
+"Saltgrass Lane",2015-12-12,TRUE
+"Saltgrass Lane",2016-01-04,NA
+"Saltgrass Lane",2016-01-05,NA
+"Saltgrass Lane",2016-01-06,NA
+"Saltgrass Lane",2016-01-07,NA
+"Saltgrass Lane",2016-01-09,TRUE
+"Saltgrass Lane",2016-01-10,TRUE
+"Saltgrass Lane",2016-01-13,TRUE
+"Saltgrass Lane",2016-01-18,NA
+"Saltgrass Lane",2016-01-19,NA
+"Saltgrass Lane",2016-01-23,TRUE
+"Saltgrass Lane",2016-01-25,TRUE
+"Saltgrass Lane",2016-01-26,TRUE
+"Saltgrass Lane",2016-01-29,TRUE
+"Saltgrass Lane",2016-01-30,TRUE
+"Saltgrass Lane",2016-01-31,TRUE
+"Saltgrass Lane",2016-02-01,TRUE
+"Saltgrass Lane",2016-02-02,TRUE
+"Saltgrass Lane",2016-02-04,TRUE
+"Saltgrass Lane",2016-02-06,TRUE
+"Saltgrass Lane",2016-02-08,TRUE
+"Saltgrass Lane",2016-02-20,TRUE
+"Saltgrass Lane",2016-03-01,TRUE
+"Selsmore",2014-03-01,FALSE
+"Selsmore",2016-03-11,TRUE
+"Southmoor",2012-11-12,FALSE
+"Southmoor",2012-11-13,FALSE
+"Southmoor",2012-11-26,TRUE
+"Southmoor",2012-12-19,FALSE
+"Southmoor",2013-01-15,TRUE
+"Southmoor",2013-02-11,TRUE
+"Southmoor",2013-03-14,TRUE
+"Southmoor",2013-11-22,FALSE
+"Southmoor",2013-12-04,TRUE
+"Southmoor",2014-01-04,TRUE
+"Southmoor",2014-01-14,TRUE
+"Southmoor",2014-01-18,TRUE
+"Southmoor",2014-02-12,TRUE
+"Southmoor",2014-03-13,TRUE
+"Southmoor",2015-01-08,TRUE
+"Southmoor",2015-11-25,TRUE
+"Southmoor",2016-01-05,FALSE
+"Southmoor",2016-01-11,TRUE
+"Southmoor",2016-01-25,TRUE
+"Southmoor",2016-02-08,TRUE
+"Southmoor",2016-02-21,FALSE
+"Southmoor",2016-02-23,TRUE
+"Southmoor",2016-03-14,TRUE
+"Southmoor",2016-12-16,NA
+"Southmoor",2017-01-11,TRUE
+"Southmoor",2017-02-01,TRUE
+"Southmoor",2017-02-14,TRUE
+"Southmoor",2017-03-14,TRUE
+"Stoke",2014-01-04,NA
+"Stoke",2014-11-07,TRUE
+"Stoke",2014-11-08,TRUE
+"Stoke",2014-11-13,TRUE
+"Stoke",2015-01-12,NA
+"Stoke",2016-01-12,NA
+"Stoke",2016-01-23,FALSE
+"Stoke",2016-02-09,TRUE
+"Stoke",2016-02-10,TRUE
+"Thorney Island_a",2013-02-09,TRUE
+"Thorney Island_a",2016-02-04,FALSE
+"Thorney Island_a",2016-03-14,TRUE
+"Thorney Island_a",2016-10-21,FALSE
+"Thorney Island_a",2016-11-09,TRUE
+"Thorney Island_a",2017-01-25,TRUE
+"Thorney Island_a",2017-02-09,TRUE
+"Thorney Island_b",2013-01-14,TRUE
+"Thorney Island_b",2013-02-09,TRUE
+"Thorney Island_b",2013-02-12,FALSE
+"Thorney Island_b",2013-03-11,FALSE
+"Thorney Island_b",2013-03-12,TRUE
+"Thorney Island_b",2013-03-13,TRUE
+"Thorney Island_b",2013-03-26,TRUE
+"Thorney Island_b",2013-12-12,FALSE
+"Thorney Island_b",2013-12-20,TRUE
+"Thorney Island_b",2014-01-08,TRUE
+"Thorney Island_b",2014-01-20,TRUE
+"Thorney Island_b",2014-01-21,TRUE
+"Thorney Island_b",2014-01-31,TRUE
+"Thorney Island_b",2014-03-18,TRUE
+"Thorney Island_b",2014-03-19,TRUE
+"Thorney Island_b",2014-11-09,TRUE
+"Thorney Island_b",2014-11-10,TRUE
+"Thorney Island_b",2014-12-08,FALSE
+"Thorney Island_b",2014-12-12,TRUE
+"Thorney Island_b",2014-12-16,NA
+"Thorney Island_b",2014-12-23,TRUE
+"Thorney Island_b",2014-12-24,TRUE
+"Thorney Island_b",2014-12-27,TRUE
+"Thorney Island_b",2014-12-28,TRUE
+"Thorney Island_b",2015-01-19,TRUE
+"Thorney Island_b",2015-10-01,TRUE
+"Thorney Island_b",2015-10-09,TRUE
+"Thorney Island_b",2015-10-12,TRUE
+"Thorney Island_b",2015-10-15,TRUE
+"Thorney Island_b",2015-10-18,TRUE
+"Thorney Island_b",2015-10-23,TRUE
+"Thorney Island_b",2015-10-27,NA
+"Thorney Island_b",2015-10-28,TRUE
+"Thorney Island_b",2015-10-31,TRUE
+"Thorney Island_b",2015-11-03,TRUE
+"Thorney Island_b",2015-11-08,TRUE
+"Thorney Island_b",2015-11-12,TRUE
+"Thorney Island_b",2015-11-16,TRUE
+"Thorney Island_b",2015-11-26,TRUE
+"Thorney Island_b",2015-11-29,TRUE
+"Thorney Island_b",2015-12-09,TRUE
+"Thorney Island_b",2015-12-11,TRUE
+"Thorney Island_b",2015-12-18,TRUE
+"Thorney Island_b",2015-12-21,FALSE
+"Thorney Island_b",2015-12-22,FALSE
+"Thorney Island_b",2015-12-23,FALSE
+"Thorney Island_b",2015-12-28,NA
+"Thorney Island_b",2015-12-29,TRUE
+"Thorney Island_b",2016-01-07,FALSE
+"Thorney Island_b",2016-01-08,TRUE
+"Thorney Island_b",2016-01-10,TRUE
+"Thorney Island_b",2016-01-13,TRUE
+"Thorney Island_b",2016-01-16,FALSE
+"Thorney Island_b",2016-01-28,TRUE
+"Thorney Island_b",2016-01-29,TRUE
+"Thorney Island_b",2016-02-04,TRUE
+"Thorney Island_b",2016-02-07,TRUE
+"Thorney Island_b",2016-02-10,TRUE
+"Thorney Island_b",2016-02-23,TRUE
+"Thorney Island_b",2016-02-24,TRUE
+"Thorney Island_b",2016-02-29,TRUE
+"Thorney Island_b",2016-03-02,TRUE
+"Thorney Island_b",2016-03-07,FALSE
+"Thorney Island_b",2016-03-10,TRUE
+"Thorney Island_b",2016-03-22,TRUE
+"Thorney Island_b",2016-10-21,FALSE
+"Thorney Island_b",2016-11-09,FALSE
+"Thorney Island_b",2016-12-18,TRUE
+"Thorney Island_b",2016-12-31,TRUE
+"Thorney Island_b",2017-01-02,TRUE
+"Thorney Island_b",2017-01-12,TRUE
+"Thorney Island_b",2017-01-13,TRUE
+"Thorney Island_b",2017-01-25,TRUE
+"Thorney Island_b",2017-02-13,TRUE
+"Thorney Island_b",2017-02-14,TRUE
+"Thorney Island_b",2017-03-03,TRUE
+"Thorney Island_b",2017-03-10,TRUE
+"Titchfield Haven",2013-11-01,FALSE
+"Titchfield Haven",2013-11-14,NA
+"Titchfield Haven",2013-12-02,TRUE
+"Titchfield Haven",2013-12-06,TRUE
+"Titchfield Haven",2014-01-20,TRUE
+"Titchfield Haven",2014-01-31,TRUE
+"Titchfield Haven",2014-02-03,TRUE
+"Titchfield Haven",2014-02-17,TRUE
+"Titchfield Haven",2014-03-17,TRUE
+"Titchfield Haven",2014-03-18,TRUE
+"Titchfield Haven",2015-10-09,NA
+"Titchfield Haven",2015-10-10,TRUE
+"Titchfield Haven",2015-10-24,NA
+"Titchfield Haven",2015-10-27,NA
+"Titchfield Haven",2015-10-31,TRUE
+"Titchfield Haven",2015-11-08,TRUE
+"Titchfield Haven",2015-11-11,NA
+"Titchfield Haven",2015-11-14,TRUE
+"Titchfield Haven",2015-11-16,TRUE
+"Titchfield Haven",2015-11-21,TRUE
+"Titchfield Haven",2015-11-22,TRUE
+"Titchfield Haven",2015-11-28,TRUE
+"Titchfield Haven",2015-12-01,NA
+"Titchfield Haven",2015-12-05,FALSE
+"Titchfield Haven",2015-12-06,NA
+"Titchfield Haven",2015-12-08,NA
+"Titchfield Haven",2015-12-09,NA
+"Titchfield Haven",2015-12-12,TRUE
+"Titchfield Haven",2015-12-14,TRUE
+"Titchfield Haven",2015-12-19,NA
+"Titchfield Haven",2015-12-23,NA
+"Titchfield Haven",2016-01-01,FALSE
+"Titchfield Haven",2016-01-02,TRUE
+"Titchfield Haven",2016-01-09,TRUE
+"Titchfield Haven",2016-01-12,TRUE
+"Titchfield Haven",2016-01-15,NA
+"Titchfield Haven",2016-01-16,NA
+"Titchfield Haven",2016-01-18,NA
+"Titchfield Haven",2016-01-23,TRUE
+"Titchfield Haven",2016-01-30,TRUE
+"Titchfield Haven",2016-02-06,TRUE
+"Titchfield Haven",2016-02-10,TRUE
+"Titchfield Haven",2016-02-13,TRUE
+"Titchfield Haven",2016-02-21,TRUE
+"Titchfield Haven",2016-02-23,TRUE
+"Titchfield Haven",2016-02-25,TRUE
+"Titchfield Haven",2016-02-26,TRUE
+"Titchfield Haven",2016-02-27,TRUE
+"Titchfield Haven",2016-03-05,FALSE
+"Titchfield Haven",2016-03-12,TRUE
+"Titchfield Haven",2016-03-15,NA
+"Titchfield Haven",2016-03-19,TRUE
+"Titchfield Haven",2016-03-22,TRUE
+"Titchfield Haven",2016-03-23,TRUE
+"Titchfield Haven",2016-03-25,TRUE
+"Titchfield Haven",2016-03-26,TRUE
+"Titchfield Haven",2016-10-06,NA
+"Titchfield Haven",2016-10-15,FALSE
+"Titchfield Haven",2016-10-22,TRUE
+"Titchfield Haven",2016-11-05,TRUE
+"Titchfield Haven",2016-11-19,TRUE
+"Titchfield Haven",2016-12-04,TRUE
+"Titchfield Haven",2016-12-17,TRUE
+"Titchfield Haven",2016-12-30,TRUE
+"Titchfield Haven",2017-01-02,TRUE
+"Titchfield Haven",2017-01-12,NA
+"Titchfield Haven",2017-01-14,TRUE
+"Titchfield Haven",2017-01-28,TRUE
+"Titchfield Haven",2017-02-11,TRUE
+"Titchfield Haven",2017-02-24,NA
+"Titchfield Haven",2017-02-25,TRUE
+"Titchfield Haven",2017-03-03,NA
+"Titchfield Haven",2017-03-13,TRUE
+"Titchfield Haven",2017-03-25,TRUE
+"Tourner Bury Mar",2012-12-15,FALSE
+"Tourner Bury Mar",2013-01-10,FALSE
+"Tourner Bury Mar",2013-01-12,TRUE
+"Tourner Bury Mar",2013-02-09,TRUE
+"Tourner Bury Mar",2013-03-16,NA
+"Tourner Bury Mar",2013-10-19,TRUE
+"Tourner Bury Mar",2013-12-07,TRUE
+"Tourner Bury Mar",2014-10-25,TRUE
+"Tourner Bury Mar",2014-12-06,TRUE
+"Tourner Bury Mar",2015-01-24,TRUE
+"Tourner Bury Mar",2015-12-12,TRUE
+"Tourner Bury Mar",2016-03-11,TRUE
+"Tourner Bury Mar",2016-03-21,TRUE
+"Tourner Bury Mar",2017-02-01,TRUE
+"Tourner Bury Mar",2017-02-03,TRUE
+"Tourner Bury Mar",2017-02-09,TRUE
+"Tourner Bury Mar",2017-02-11,TRUE
+"Tourner Bury Mar",2017-02-12,FALSE
+"Tourner Bury Mar",2017-03-10,FALSE
+"Tourner Bury Mar",2017-03-20,NA
+"Verner Common_a",2013-03-16,TRUE
+"Verner Common_a",2016-01-25,TRUE
+"Warblington",2015-12-23,FALSE
+"Warblington",2016-01-23,TRUE
+"Warblington",2016-12-21,TRUE
+"West Northney",2014-01-04,TRUE
+"West Northney",2015-10-28,TRUE
+"West Northney",2016-01-23,TRUE
+"West Northney",2016-11-30,TRUE
+"West Northney",2016-12-21,TRUE
+"West Northney",2017-01-19,TRUE
+"West Northney",2017-01-31,TRUE
+"West Northney",2017-02-14,FALSE
+"West Northney",2017-02-28,TRUE
+"West Northney",2017-03-07,FALSE
+"West Northney",2017-03-11,TRUE
+"West Wittering",2013-11-04,FALSE
+"West Wittering",2015-10-26,NA
+"West Wittering",2016-02-10,TRUE
+"West Wittering",2016-03-29,TRUE
+"West Wittering",2017-02-11,TRUE
+"Wicor",2013-12-18,TRUE
+"Wicor",2014-03-27,TRUE

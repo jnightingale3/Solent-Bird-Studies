@@ -18,7 +18,7 @@ ourbirds <- unique(solent$Species)[
 filter_spp <- solent$Species %in% ourbirds
 
 
-rm(ourbirds, seabirds, goodspp, spp, get_goodspp, nohybrids)
+rm(seabirds, goodspp, spp, get_goodspp, nohybrids)
 
 
 
@@ -34,8 +34,7 @@ rm(ourbirds, seabirds, goodspp, spp, get_goodspp, nohybrids)
 solent$month <- factor(months(solent$Date))
 ## create column of years
 solent$year <- factor(format(solent$Date, '%Y'))
-## create yearmonth column
-solent$yeamon <- sprintf('%s %s', solent$month, solent$year)
+
 
 # which months do we want?
 select_months <- c('October','November','December',

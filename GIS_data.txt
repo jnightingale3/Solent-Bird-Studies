@@ -6,4 +6,11 @@ readOGR(dsn='../../Solent Bird Studies GIS Data/Survey results', layer='all_move
 
 readOGR(dsn='../../Solent Bird Studies GIS Data', layer='Solent_sections')
 
+readOGR('../../Solent Bird Studies GIS Data', 'Oysterbeds_overla')
+
+
+readOGR(dsn='../../Solent Bird Studies GIS Data/UK SPAs with Marine Components',
+               layer='UKSPAswithMarineComponents_WGS84_b')
+
+readOGR(dsn='../Solent Bird Movement/Results', layer='Network_stats_new')
 

@@ -13,30 +13,11 @@ require(plyr)
 require(magrittr)
 require(readr)
 
-
-#### Load all data ####
-
-## WeBS data (read from parent folder)
-webspplist <- read.csv("../WeBS_species_list.csv")
-
-
-## Solent Birds data
-
-# load separate data files and 
-# check for compatibility amongst them & with WeBS
-source('compatibility.R')
-# NOTE: the warning
-# "In function_list[[k]](value) : NAs introduced by coercion"
-# is no problem - it's a deliberate part of fixing incorrectly-recorded
-# (non-numeric) longitudes :)
-
-# clean up associated visit information
-source('visit_info.R')
-
-# join bird sightings to visit info
-# and join all solent data sets together
-source('join_all_counts.R')
-# output data frame is 'solent'
+# load data from Data collation
+solent <- read.csv('../Data collation/Data/solent.csv')
+# fix time columns
+solent$Date <- as.POSIXct(solent$Date, format='%F')
+solent$Time <- as.POSIXct(solent$Time, format='%H:%M')
 
 ## filter this data by times
 source('data_filters.R') 
@@ -49,7 +30,7 @@ source('data_filters.R')
 
 # For HIWWT analyses, separate results are required for 
 # Brent Geese
-source('filter_brent.R')
+# source('filter_brent.R')
 # and waders
 # source('filter_waders.R')
 # and BOTH waders AND brent

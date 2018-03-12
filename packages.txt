@@ -1,4 +1,6 @@
 require(igraph) # for network visualisation only
+require(lubridate)
+require(maptools)
 require(plyr)
 require(R.utils)
 require(raster)
