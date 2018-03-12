@@ -1,0 +1,246 @@
+Code,Species
+AC,Arctic Skua
+AE,Arctic Tern
+AV,Avocet
+BB,Brent Goose (Black Brant)
+BO,Barn Owl
+BY,Barnacle Goose
+BA,Bar-tailed Godwit
+BR,Bearded Tit
+BS,Berwick's Swan
+BI,Bittern
+BK,Black Grouse
+TY,Black Guillemot
+BX,Black Redstart
+BJ,Black Tern
+B.,Blackbird
+BC,Blackcap
+BH,Black-headed Gull
+BN,Black-necked Grebe
+BW,Black-tailed Godwit
+BV,Black-throated Diver
+BT,Blue Tit
+BU,Bluethroat
+BL,Brambling
+BG,Brent Goose
+BF,Bullfinch
+BZ,Buzzard
+CG,Canada Goose
+CP,Capercaillie
+C.,Carrion Crow
+CW,Cetti's Warbler
+CH,Chaffinch
+CC,Chiffchaff
+CF,Chough
+CL,Cirl Bunting
+CT,Coal Tit
+CD,Collared Dove
+CM,Common Gull
+CS,Common Sandpiper
+CX,Common Scoter
+CN,Common Tern
+CO,Coot
+CA,Cormorant
+CB,Corn Bunting
+CE,Corncrake
+CI,Crested Tit
+CR,Crossbill (Common)
+CK,Cuckoo
+CU,Curlew
+DB,Brent Goose (Dark-bellied)
+DW,Dartford Warbler
+DI,Dipper
+DO,Dotterel
+DN,Dunlin
+D.,Dunnock
+EG,Egyptian Goose
+E.,Eider
+FP,Feral Pigeon
+ZL,Feral/hybrid goose
+ZF,Feral/hybrid mallard type
+FF,Fieldfare
+FC,Firecrest
+F.,Fulmar
+GA,Gadwall
+GX,Gannet
+GW,Garden Warbler
+GY,Garganey
+GC,Goldcrest
+EA,Golden Eagle
+OL,Golden Oriole
+GF,Golden Pheasant
+GP,Golden Plover
+GN,Goldeneye
+GO,Goldfinch
+GD,Goosander
+GI,Goshawk
+GH,Grasshopper Warbler
+GB,Great Black-backed Gull
+GG,Great Crested Grebe
+ND,Great Northern Diver
+NX,Great Skua
+GS,Great Spotted Woodpecker
+GT,Great Tit
+GE,Green Sandpiper
+G.,Green Woodpecker
+GR,Greenfinch
+GK,Greenshank
+H.,Grey Heron
+P.,Grey Partridge
+GV,Grey Plover
+GL,Grey Wagtail
+GJ,Greylag Goose
+GU,Guillemot
+FW,Guineafowl (Helmeted)
+HF,Hawfinch
+HH,Hen Harrier
+HG,Herring Gull
+HY,Hobby
+HZ,Honey Buzzard
+HC,Hooded Crow
+HP,Hoopoe
+HM,House Martin
+HS,House Sparrow
+JS,Jack Snipe
+JD,Jackdaw
+J.,Jay
+K.,Kestrel
+KF,Kingfisher
+KI,Kittiwake
+KN,Knot
+LM,Lady Amherst's Pheasant
+LA,Lapland Bunting
+L.,Lapwing
+TL,Leach's Petrel
+LB,Lesser Black-backed Gull
+LS,Lesser Spotted Woodpecker
+LW,Lesser Whitethroat
+LI,Linnet
+ET,Little Egret
+LG,Little Grebe
+LU,Little Gull
+LO,Little Owl
+LP,Little Ringed Plover
+LX,Little Stint
+AF,Little Tern
+LE,Long-eared Owl
+LT,Long-tailed Tit
+MG,Magpie
+MA,Mallard
+MN,Mandarin Duck
+MX,Manx Shearwater
+MR,Marsh Harrier
+MT,Marsh Tit
+MW,Marsh Warbler
+MP,Meadow Pipit
+MU,Mediterranean Gull
+ML,Merlin
+M.,Mistle Thrush
+MO,Montagu's Harrier
+MH,Moorhen
+MS,Mute Swan
+N.,Nightingale
+NJ,Nightjar
+NH,Nuthatch
+OP,Osprey
+OC,Oystercatcher
+PB,Brent Goose (Light-bellied)
+PX,Peafowl/Peacock
+PE,Peregrine
+PH,Pheasant
+PF,Pied Flycatcher
+PW,Pied Wagtail
+PG,Pink-footed Goose
+PT,Pintail
+PO,Pochard
+PM,Ptarmigan
+PU,Puffin
+PS,Purple Sandpiper
+Q.,Quail
+RN,Raven
+RA,Razorbill
+RG,Red Grouse
+KT,Red Kite
+ED,Red-backed Shrike
+RM,Red-breasted Merganser
+RQ,Red-crested Pochard
+FV,Red-footed Falcon
+RL,Red-legged Partridge
+NK,Red-necked Phalarope
+LR,Redpoll (Lesser)
+RK,Redshank
+RT,Redstart
+RH,Red-throated Diver
+RE,Redwing
+RB,Reed Bunting
+RW,Reed Warbler
+RZ,Ring Ouzel
+RP,Ringed Plover
+RI,Ring-necked Parakeet
+R.,Robin
+DV,Rock Dove (not feral)
+RC,Rock Pipit
+RO,Rook
+RS,Roseate Tern
+RY,Ruddy Duck
+RU,Ruff
+SM,Sand Martin
+SS,Sanderling
+TE,Sandwich Tern
+VI,Savi's Warbler
+SQ,Scarlet Rosefinch
+SP,Scaup
+CY,Scottish Crossbill
+SW,Sedge Warbler
+NS,Serin
+SA,Shag
+SU,Shelduck
+SX,Shorelark
+SE,Short-eared Owl
+SV,Shoveler
+SK,Siskin
+S.,Skylark
+SZ,Slavonian Grebe
+SN,Snipe
+SB,Snow Bunting
+ST,Song Thrush
+SH,Sparrowhawk
+AK,Spotted Crake
+SF,Spotted Flycatcher
+DR,Spotted Redshank
+SG,Starling
+SD,Stock Dove
+SC,Stonechat
+TN,Stone-curlew
+TM,Storm Petrel
+SL,Swallow
+SI,Swift
+TO,Tawny Owl
+T.,Teal
+TK,Temminck's Stint
+TP,Tree Pipit
+TS,Tree Sparrow
+TC,Treecreeper
+TU,Tufted Duck
+TT,Turnstone
+TD,Turtle Dove
+TW,Twite
+WA,Water Rail
+W.,Wheatear
+WM,Whimbrel
+WC,Whinchat
+WG,White-fronted Goose
+WH,Whitethroat
+WS,Whooper Swan
+WN,Wigeon
+WT,Willow Tit
+WW,Willow Warbler
+OD,Wood Sandpiper
+WO,Wood Warbler
+WK,Woodcock
+WL,Woodlark
+WP,Woodpigeon
+WR,Wren
+WY,Wryneck
+YW,Yellow Wagtail
+Y.,Yellowhammer

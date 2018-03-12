@@ -55,66 +55,6 @@ birds <- droplevels(birds2)
 rm(birds2)
 
 
-###########################################################################
-##### DON'T NEED THE Data_analysis_29032016_data_cleaning.csv DATASET #####
-############ IT'S JUST THE FIRST YEAR OF SOLENTBIRDS APP DATA #############
-###########################################################################
-
-# #### repeat this for Data_analysis_29032016_data_cleaning ####
-# clean <- read.csv("Data/Data_analysis_29032016_data_cleaning.csv")
-# # no negative records in this data set but need to fix some taxa names
-# clean$Species[which(clean$Species %in% webspplist$sp == F)] %>% unique 
-# 
-# 
-# ### rename taxa
-# clean$sp <- as.character(clean$Species)
-# 
-# # dark bellies
-# clean$sp <- replace(clean$sp,                               
-#                     clean$sp=='Brent Goose (dark-bellied)', 
-#                     'Brent Goose (Dark-bellied)')           
-# # Larus fuscus
-# clean$sp <- replace(clean$sp,                             
-#                     clean$sp=='Lesser-black-backed Gull', 
-#                     'Lesser Black-backed Gull')           
-# # Larus marinus
-# clean$sp <- replace(clean$sp,                               
-#                     clean$sp=='Great-black-backed Gull', 
-#                     'Great Black-backed Gull')           
-# 
-# 
-# clean$sp <- as.factor(clean$sp)
-# sum(clean$sp %in% webspplist$sp == F) # none
-# 
-# 
-# ### this dataset also needs a $Visit.ID equivalent
-# # create by creating a string variable of location, recorder and date - should be ok!
-# clean$visitid <- factor( with(clean, sprintf('%s %s; %s; %s', Easting, Northing, Recorder, Date)) )
-# 
-# 
-# ### Fix so that Longitude is numeric, rather than factor
-# ## some level must contain non-numeric character
-# 
-# # convert to numeric (via character); NAs will indicate non-numeric input
-# long_num <- clean$Longitude %>% as.character %>% as.numeric
-# long_num %>% is.na %>% sum # 966 are non-numeric!
-# clean$Longitude[is.na(long_num)] %>% head # they start with '0-'
-# 
-# # logical vector to select the rows with non-numeric longitudes
-# sel <- grepl('0-', clean$Longitude)
-# sel %>% sum      # fix only these 966 lines
-# # long_fix <- rep(NA, length=nrow(clean))
-# long_fix <- clean$Longitude[sel]
-# long_fix <- gsub('0-', '', long_fix) %>% as.numeric # works
-# long_fix <- 0 - long_fix
-# # long_fix %>% hist # there are no positive values! all should be negative :)
-# 
-# all.equal(is.na(long_num), sel)
-# long_num[sel] <- long_fix
-# is.na(long_num) %>% sum # 0 - we have fixed the dataset!
-# 
-# clean$Longitude <- long_num
-
 
 
 #### repeat for SW&BG Records ####

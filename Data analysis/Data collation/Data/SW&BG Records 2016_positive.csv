@@ -1,0 +1,568 @@
+"Record_id","Source","Recorder Name","Site","Easting","Northing","Date","Season","Time on Site","Species","Count","Use","Disturbance"
+602,"Goosewatch","Ed Rowsell","C10F",475300,104330,1/8/2014,"2013-14","08:30","Brent Goose ",30,,"No"
+605,"Goosewatch","Ed Rowsell","C10F",475360,103970,1/8/2014,"2013-14","15:30","Curlew",23,,"No"
+609,"Goosewatch","Ed Rowsell","C10F",475410,104600,1/8/2014,"2013-14","13:30","Curlew",1,,"No"
+606,"Goosewatch","Ed Rowsell","C10F",475360,103970,1/8/2014,"2013-14","15:30","Lapwing",50,,"No"
+666,"Goosewatch","Anne de Potier","C10F",475260,104710,1/21/2014,"2013-14","15:20","Brent Goose ",430,,"No"
+910,"Goosewatch","Anne de Potier","C10F",475230,104650,3/19/2014,"2013-14","14:00","Curlew",26,,
+612,"Goosewatch","Ed Rowsell","C3H",483650,102590,1/9/2014,"2013-14","12:10","Brent Goose ",1600,,"No"
+709,"Goosewatch","Ed Rowsell","C3H",483610,102230,1/22/2014,"2013-14","13:30","Brent Goose ",2000,,"No"
+794,"Goosewatch","Ed Rowsell","C3H",483660,102460,1/29/2014,"2013-14","09:20","Curlew",35,,"No"
+795,"Goosewatch","Ed Rowsell","C3H",483660,102460,1/29/2014,"2013-14","09:20","Oystercatcher",11,,"No"
+790,"Goosewatch","Ed Rowsell","C4",483100,103730,1/29/2014,"2013-14","08:45","Brent Goose ",1000,,"No"
+789,"Goosewatch","Ed Rowsell","C4",483210,104080,1/29/2014,"2013-14","08:45","Curlew",34,,"No"
+685,"Goosewatch","Anne de Potier","C4",483070,103700,3/3/2014,"2013-14","10:00","Brent Goose ",600,,
+684,"Goosewatch","Anne de Potier","C4A",483360,104310,3/3/2014,"2013-14","11:15","Curlew",58,,
+911,"Goosewatch","Anne de Potier","C4A",483370,104310,3/24/2014,"2013-14","15:45","Curlew",33,,
+912,"Goosewatch","Anne de Potier","C4A",483370,104310,3/24/2014,"2013-14","15:45","Curlew",33,,
+791,"Goosewatch","Ed Rowsell","C4E",484020,103750,1/29/2014,"2013-14","09:20","Curlew",1,,"No"
+792,"Goosewatch","Ed Rowsell","C4E",484020,103750,1/29/2014,"2013-14","09:20","Lapwing",25,,"No"
+552,"Goosewatch","Ed Rowsell","C4L",478320,99310,12/23/2013,"2013-14","11:11","Brent Goose ",500,,"No"
+550,"Goosewatch","Ed Rowsell","C4L",480370,102120,1/3/2014,"2013-14","14:00","Brent Goose ",500,,"No"
+551,"Goosewatch","Ed Rowsell","C4L",480370,102120,1/3/2014,"2013-14","14:00","Curlew",20,,"No"
+571,"Goosewatch","Ed Rowsell","C4L",480380,102160,1/4/2014,"2013-14","12:00","Brent Goose ",400,,"No"
+575,"Goosewatch","Ed Rowsell","C4L",478870,99300,1/4/2014,"2013-14","13:20","Brent Goose ",200,,"No"
+574,"Goosewatch","Ed Rowsell","C4L",478550,99410,1/4/2014,"2013-14","13:20","Brent Goose ",7,,"No"
+576,"Goosewatch","Ed Rowsell","C4L",478870,99300,1/4/2014,"2013-14","13:20","Curlew",131,,"No"
+579,"Goosewatch","Ed Rowsell","C4L",481180,100650,1/4/2014,"2013-14","13:40","Curlew",33,,"No"
+572,"Goosewatch","Ed Rowsell","C4L",480380,102160,1/4/2014,"2013-14","12:00","Curlew",20,,"No"
+573,"Goosewatch","Ed Rowsell","C4L",480950,102180,1/4/2014,"2013-14","12:00","Curlew",12,,"No"
+577,"Goosewatch","Ed Rowsell","C4L",478870,99300,1/4/2014,"2013-14","13:20","Grey Plover",12,,"No"
+578,"Goosewatch","Ed Rowsell","C4L",481180,100650,1/4/2014,"2013-14","13:40","Oystercatcher",6,,"No"
+583,"Goosewatch","Ed Rowsell","C6E",479220,102920,1/4/2014,"2013-14","14:30","Redshank",4,,"No"
+569,"Goosewatch","Ed Rowsell","C7B",478320,103170,1/4/2014,"2013-14","11:20","Brent Goose ",200,,"No"
+580,"Goosewatch","Ed Rowsell","C9",478220,104390,1/4/2014,"2013-14","14:20","Brent Goose ",200,,"No"
+581,"Goosewatch","Ed Rowsell","C9",478710,105000,1/4/2014,"2013-14","14:35","Curlew",5,,"No"
+570,"Goosewatch","Ed Rowsell","C9A",478350,104740,1/4/2014,"2013-14","11:20","Brent Goose ",500,,"No"
+618,"Goosewatch","Anne de Potier","C9C",476980,105060,1/14/2014,"2013-14","13:40","Brent Goose ",123,,
+626,"Goosewatch","Anne de Potier","C9C",477000,105060,1/16/2014,"2013-14","14:50","Curlew",24,,
+658,"Goosewatch","Keith","C9C",477000,105040,1/20/2014,"2013-14","13:30","Brent Goose ",200,,"No"
+568,"Goosewatch","Ed Rowsell","C9D",476410,105060,1/4/2014,"2013-14","11:30","Curlew",1,,"No"
+1205,"Goosewatch","HCCET","F01",457940,105280,1/16/2014,"2013-14","12:49","Oystercatcher",3,,"Yes"
+1210,"Goosewatch","HCCET","F01",457990,105370,3/27/2014,"2013-14","08:02","Turnstone",6,,"Yes"
+1201,"Goosewatch","HCCET","F05",459780,105410,12/18/2012,"2012-13","10:52","Oystercatcher",5,,"Yes"
+1203,"Goosewatch","HCCET","F05",459650,105040,1/19/2013,"2012-13","12:49","Oystercatcher",17,,"Yes"
+1364,"Goosewatch","HCCET","F05",459830,105250,12/18/2013,"2013-14","12:00","Oystercatcher",5,,
+1208,"Goosewatch","HCCET","F05",459860,105420,3/27/2014,"2013-14","10:00","Oystercatcher",5,,"Yes"
+1224,"Goosewatch","HCCET","F06",454910,102050,1/17/2014,"2013-14","10:25","Oystercatcher",10,,"Yes"
+1197,"Goosewatch","HCCET","F13",456430,102670,1/31/2013,"2012-13","10:00","Oystercatcher",3,,"Yes"
+1215,"Goosewatch","HCCET","F16",462230,105030,1/15/2014,"2013-14","11:07","Oystercatcher",3,,"Yes"
+1217,"Goosewatch","HCCET","F16",462270,104940,2/28/2014,"2013-14","10:45","Oystercatcher",2,,"Yes"
+1204,"Goosewatch","HCCET","F19A",458220,105150,1/16/2014,"2013-14","12:49","Oystercatcher",3,,"Yes"
+1209,"Goosewatch","HCCET","F19A",458070,105710,3/27/2014,"2013-14","07:40","Oystercatcher",3,,"Yes"
+1198,"Goosewatch","HCCET","F21",460120,105650,11/19/2012,"2012-13","11:48","Brent Goose ",300,,"Yes"
+1202,"Goosewatch","HCCET","F21",459800,105560,1/19/2013,"2012-13","10:30","Oystercatcher",1,,"Yes"
+914,"Goosewatch","HCCET","F21",459980,105540,11/19/2013,"2013-14","11:35","Brent Goose ",300,,"Yes"
+1213,"Goosewatch","HCCET","F21",460200,105260,12/18/2013,"2013-14","10:30","Curlew",26,,"No"
+1206,"Goosewatch","HCCET","F21",459980,105260,2/28/2014,"2013-14","11:45","Curlew",15,,"No"
+1207,"Goosewatch","HCCET","F22",459490,105520,3/27/2014,"2013-14","07:21","Redshank",1,,"No"
+1211,"Goosewatch","HCCET","F46A",460310,104890,11/19/2013,"2013-14","13:41","Curlew",1,,"No"
+1214,"Goosewatch","HCCET","F46A",460320,104880,1/15/2014,"2013-14","11:07","Curlew",14,,"Yes"
+1163,"Goosewatch","HCCET","F47A",453920,104770,2/17/2014,"2013-14","11:50","Oystercatcher",8,,"No"
+1165,"Goosewatch","HCCET","F47B",454180,105330,2/17/2014,"2013-14","13:50","Oystercatcher",22,,"Yes"
+1172,"Goosewatch","HCCET","F48A",453890,105370,3/17/2014,"2013-14","13:50","Shelduck",3,,"Yes"
+1223,"Goosewatch","HCCET","F49",452930,104790,3/28/2014,"2013-14","09:20","Ringed Plover",6,,"No"
+1139,"Goosewatch","HCCET","F50",451440,103610,11/15/2013,"2013-14","09:00","Brent Goose ",350,,"Yes"
+1141,"Goosewatch","HCCET","F50",450620,103910,12/5/2013,"2013-14","11:28","Brent Goose ",650,,"Yes"
+1142,"Goosewatch","HCCET","F50",451040,103690,12/5/2013,"2013-14","09:20","Brent Goose ",600,"Feeding","No"
+1143,"Goosewatch","HCCET","F50",451040,103690,12/5/2013,"2013-14","09:20","Oystercatcher",90,"Feeding","No"
+,"HIWWT","Trevor Codlin","F50",,,1/5/2014,"2013-14",,"Brent Goose",1000,"Feeding",
+1137,"Goosewatch","HCCET","F55",452480,103400,11/1/2013,"2013-14","10:49","Oystercatcher",2,,"No"
+1152,"Goosewatch","HCCET","F55",452430,103380,11/1/2013,"2013-14","10:49","Oystercatcher",2,,"No"
+1138,"Goosewatch","HCCET","F55",452440,103440,12/2/2013,"2013-14","09:00","Oystercatcher",1,,"Yes"
+1181,"Goosewatch","HCCET","F58",448700,106810,2/13/2014,"2013-14","10:35","Brent Goose ",27,,"Yes"
+1183,"Goosewatch","HCCET","F58",448700,106810,2/13/2014,"2013-14","10:35","Curlew",1,,"Yes"
+1184,"Goosewatch","HCCET","F58",448700,106810,2/13/2014,"2013-14","10:35","Dunlin",200,,"Yes"
+1185,"Goosewatch","HCCET","F58",448700,106810,2/13/2014,"2013-14","10:35","Grey Plover",39,,"Yes"
+1186,"Goosewatch","HCCET","F58",448700,106810,2/13/2014,"2013-14","10:35","Oystercatcher",2,,"Yes"
+1195,"Goosewatch","HCCET","F58",448680,106910,3/28/2014,"2013-14",9:30,"Brent Goose ",120,,"Yes"
+1193,"Goosewatch","HCCET","F58",448680,106910,3/28/2014,"2013-14",9:30,"Brent Goose ",100,,"Yes"
+1194,"Goosewatch","HCCET","F58",448680,106910,3/28/2014,"2013-14",9:30,"Redshank",5,,"Yes"
+1192,"Goosewatch","HCCET","F58",448680,106910,3/28/2014,"2013-14",9:30,"Ringed Plover",25,,"Yes"
+1177,"Goosewatch","HCCET","F70",448830,106480,1/29/2014,"2013-14","10:45","Brent Goose ",3,,"No"
+1178,"Goosewatch","HCCET","F70",448830,106480,1/29/2014,"2013-14","10:45","Curlew",1,,"No"
+1189,"Goosewatch","HCCET","F70",448840,106540,3/28/2014,"2013-14",9:35,"Redshank",1,,"No"
+1191,"Goosewatch","HCCET","F71",448660,107100,3/28/2014,"2013-14",9:00,"Shelduck",2,,"No"
+1188,"Goosewatch","HCCET","F74",448940,108280,2/13/2014,"2013-14",9:35,"Curlew",1,,"No"
+1437,"HIWWT","Richard Young","G02",,,11/4/2010,"2010-11","10:00","Brent Goose",80,,
+1438,"HIWWT","Richard Young","G02",,,11/5/2010,"2010-11",,"Brent Goose",100,,
+1439,"HIWWT","Richard Young","G02",,,11/7/2010,"2010-11",,"Brent Goose",200,,
+1440,"HIWWT","Richard Young","G02",,,11/8/2010,"2010-11","09:30","Brent Goose",250,,
+1441,"HIWWT","Richard Young","G02",,,2/3/2011,"2010-11","10:30","Brent Goose",30,,
+1443,"HIWWT","Richard Young","G02",,,2/8/2011,"2010-11","11:45","Brent Goose",200,,
+1442,"HIWWT","Richard Young","G02",,,3/18/2011,"2010-11","10:10","Brent Goose",25,,
+671,"Goosewatch","Deborah","G37",458470,98750,11/3/2013,"2013-14",,"Dunlin",10,,"Yes"
+669,"Goosewatch","Deborah Whitfield","G37",458470,98750,11/3/2013,"2013-14",,"Ringed Plover",176,,"Yes"
+670,"Goosewatch","Deborah Whitfield","G37",458470,98750,11/3/2013,"2013-14",,"Turnstone",30,,"Yes"
+,"HIWWT","Trevor Codlin","G37",458160,98870,11/3/2014,"2014-15",,"Dunlin",10,"Roosting",
+,"HIWWT","Trevor Codlin","G37",,,11/3/2014,"2014-15",,"Ringed Plover",176,"Roosting",
+,"HIWWT","Trevor Codlin","G37",,,11/3/2014,"2014-15",,"Turnstone",30,"Roosting",
+1396,"HIWWT","Richard Maclachlan","G40",,,10/28/2013,"2013-14",8:30,"Brent Goose",253,,"No"
+,"HIWWT","Trevor Codlin","G47",,,1/12/2014,"2013-14",,"Brent Goose",200,"Feeding",
+668,"Goosewatch","Deborah Whitfield","G47",460840,100310,1/24/2014,"2013-14","13:30","Brent Goose ",200,,"No"
+1507,"HIWWT","John Norton","G51",,,11/2/2010,"2010-11",,"Black-tailed Godwit",79,,
+1478,"HIWWT","John Norton","G51",,,11/2/2010,"2010-11",,"Oystercatcher",3,,
+1444,"HIWWT","John Norton","G51",,,11/6/2010,"2010-11",,"Brent Goose",13,,
+1445,"HIWWT","John Norton","G51",,,11/22/2010,"2010-11",,"Brent Goose",5,,
+1508,"HIWWT","John Norton","G51",,,12/2/2010,"2010-11",,"Black-tailed Godwit",1,,
+1446,"HIWWT","John Norton","G51",,,12/2/2010,"2010-11",,"Brent Goose",6,,
+1494,"HIWWT","John Norton","G51",,,12/2/2010,"2010-11",,"Lapwing",3,,
+1447,"HIWWT","John Norton","G51",,,12/4/2010,"2010-11",,"Brent Goose",43,,
+1500,"HIWWT","John Norton","G51",,,12/4/2010,"2010-11",,"Dunlin",1,,
+1497,"HIWWT","John Norton","G51",,,12/4/2010,"2010-11",,"Ringed Plover",1,,
+1509,"HIWWT","John Norton","G51",,,12/6/2010,"2010-11",,"Black-tailed Godwit",1,,
+1448,"HIWWT","John Norton","G51",,,12/6/2010,"2010-11",,"Brent Goose",13,,
+1495,"HIWWT","John Norton","G51",,,12/6/2010,"2010-11",,"Lapwing",1,,
+1479,"HIWWT","John Norton","G51",,,12/6/2010,"2010-11",,"Oystercatcher",2,,
+1510,"HIWWT","John Norton","G51",,,12/9/2010,"2010-11",,"Black-tailed Godwit",62,,
+1449,"HIWWT","John Norton","G51",,,12/9/2010,"2010-11",,"Brent Goose",82,,
+1511,"HIWWT","John Norton","G51",,,12/14/2010,"2010-11",,"Black-tailed Godwit",7,,
+1450,"HIWWT","John Norton","G51",,,12/14/2010,"2010-11",,"Brent Goose",140,,
+1480,"HIWWT","John Norton","G51",,,12/14/2010,"2010-11",,"Oystercatcher",2,,
+1451,"HIWWT","John Norton","G51",,,12/19/2010,"2010-11",,"Brent Goose",304,,
+1512,"HIWWT","John Norton","G51",,,12/24/2010,"2010-11",,"Black-tailed Godwit",94,,
+1452,"HIWWT","John Norton","G51",,,12/24/2010,"2010-11",,"Brent Goose",210,,
+1501,"HIWWT","John Norton","G51",,,12/24/2010,"2010-11",,"Dunlin",12,,
+1498,"HIWWT","John Norton","G51",,,12/24/2010,"2010-11",,"Grey Plover",1,,
+1481,"HIWWT","John Norton","G51",,,12/24/2010,"2010-11",,"Oystercatcher",2,,
+1492,"HIWWT","John Norton","G51",,,12/24/2010,"2010-11",,"Snipe",2,,
+1513,"HIWWT","John Norton","G51",,,12/26/2010,"2010-11",,"Black-tailed Godwit",23,,
+1453,"HIWWT","John Norton","G51",,,12/26/2010,"2010-11",,"Brent Goose",79,,
+1499,"HIWWT","John Norton","G51",,,12/26/2010,"2010-11",,"Grey Plover",1,,
+1493,"HIWWT","John Norton","G51",,,12/26/2010,"2010-11",,"Snipe",2,,
+1454,"HIWWT","John Norton","G51",,,1/1/2011,"2010-11",,"Brent Goose",199,,
+1496,"HIWWT","John Norton","G51",,,1/1/2011,"2010-11",,"Lapwing",2,,
+1455,"HIWWT","John Norton","G51",,,1/4/2011,"2010-11",,"Brent Goose",157,,
+1482,"HIWWT","John Norton","G51",,,1/4/2011,"2010-11",,"Oystercatcher",2,,
+1456,"HIWWT","John Norton","G51",,,1/7/2011,"2010-11",,"Brent Goose",3,,
+1514,"HIWWT","John Norton","G51",,,1/17/2011,"2010-11",,"Black-tailed Godwit",1,,
+1457,"HIWWT","John Norton","G51",,,1/17/2011,"2010-11",,"Brent Goose",163,,
+1483,"HIWWT","John Norton","G51",,,1/17/2011,"2010-11",,"Oystercatcher",1,,
+1458,"HIWWT","John Norton","G51",,,1/20/2011,"2010-11",,"Brent Goose",73,,
+1502,"HIWWT","John Norton","G51",,,1/20/2011,"2010-11",,"Dunlin",1,,
+1459,"HIWWT","John Norton","G51",,,1/22/2011,"2010-11",,"Brent Goose",21,,
+1503,"HIWWT","John Norton","G51",,,1/22/2011,"2010-11",,"Dunlin",1,,
+1460,"HIWWT","John Norton","G51",,,1/26/2011,"2010-11",,"Brent Goose",197,,
+1484,"HIWWT","John Norton","G51",,,1/26/2011,"2010-11",,"Oystercatcher",7,,
+1461,"HIWWT","John Norton","G51",,,1/27/2011,"2010-11",,"Brent Goose",158,,
+1515,"HIWWT","John Norton","G51",,,1/29/2011,"2010-11",,"Black-tailed Godwit",9,,
+1462,"HIWWT","John Norton","G51",,,1/29/2011,"2010-11",,"Brent Goose",138,,
+1516,"HIWWT","John Norton","G51",,,2/1/2011,"2010-11",,"Black-tailed Godwit",2,,
+1485,"HIWWT","John Norton","G51",,,2/1/2011,"2010-11",,"Oystercatcher",1,,
+1463,"HIWWT","John Norton","G51",,,2/5/2011,"2010-11",,"Brent Goose",14,,
+1486,"HIWWT","John Norton","G51",,,2/5/2011,"2010-11",,"Oystercatcher",1,,
+1504,"HIWWT","John Norton","G51",,,2/6/2011,"2010-11",,"Dunlin",10,,
+1517,"HIWWT","John Norton","G51",,,2/8/2011,"2010-11",,"Black-tailed Godwit",4,,
+1464,"HIWWT","John Norton","G51",,,2/8/2011,"2010-11",,"Brent Goose",264,,
+1487,"HIWWT","John Norton","G51",,,2/8/2011,"2010-11",,"Oystercatcher",1,,
+1465,"HIWWT","John Norton","G51",,,2/11/2011,"2010-11",,"Brent Goose",173,,
+1505,"HIWWT","John Norton","G51",,,2/11/2011,"2010-11",,"Dunlin",5,,
+1466,"HIWWT","John Norton","G51",,,2/14/2011,"2010-11",,"Brent Goose",212,,
+1467,"HIWWT","John Norton","G51",,,2/18/2011,"2010-11",,"Brent Goose",151,,
+1488,"HIWWT","John Norton","G51",,,2/18/2011,"2010-11",,"Oystercatcher",1,,
+1468,"HIWWT","John Norton","G51",,,2/19/2011,"2010-11",,"Brent Goose",41,,
+1489,"HIWWT","John Norton","G51",,,2/19/2011,"2010-11",,"Oystercatcher",1,,
+1469,"HIWWT","John Norton","G51",,,2/24/2011,"2010-11",,"Brent Goose",155,,
+1470,"HIWWT","John Norton","G51",,,2/25/2011,"2010-11",,"Brent Goose",190,,
+1471,"HIWWT","John Norton","G51",,,3/2/2011,"2010-11",,"Brent Goose",130,,
+1472,"HIWWT","John Norton","G51",,,3/4/2011,"2010-11",,"Brent Goose",119,,
+1473,"HIWWT","John Norton","G51",,,3/11/2011,"2010-11",,"Brent Goose",78,,
+1474,"HIWWT","John Norton","G51",,,3/16/2011,"2010-11",,"Brent Goose",41,,
+1475,"HIWWT","John Norton","G51",,,3/18/2011,"2010-11",,"Brent Goose",30,,
+1476,"HIWWT","John Norton","G51",,,3/24/2011,"2010-11",,"Brent Goose",17,,
+1506,"HIWWT","John Norton","G51",,,3/24/2011,"2010-11",,"Dunlin",14,,
+1490,"HIWWT","John Norton","G51",,,3/24/2011,"2010-11",,"Oystercatcher",1,,
+1477,"HIWWT","John Norton","G51",,,3/25/2011,"2010-11",,"Brent Goose",1,,
+1491,"HIWWT","John Norton","G51",,,3/25/2011,"2010-11",,"Oystercatcher",1,,
+1407,"HIWWT","Jim Graham","H02A",,,1/25/2013,"2012-13",16:10,"Brent Goose",70,"Feeding","No"
+1408,"HIWWT","Jim Graham","H02A",,,1/26/2013,"2012-13",11:00,"Brent Goose",70,"Feeding","No"
+1409,"HIWWT","Jim Graham","H02A",,,1/27/2013,"2012-13",14:00,"Brent Goose",140,"Feeding","No"
+1410,"HIWWT","Jim Graham","H02A",,,1/28/2013,"2012-13",11:30,"Brent Goose",120,"Feeding","No"
+1411,"HIWWT","Jim Graham","H02A",,,1/28/2013,"2012-13",11:30,"Curlew",1,,"No"
+1412,"HIWWT","Jim Graham","H02A",,,1/30/2013,"2012-13",11:30,"Brent Goose",100,"Feeding","No"
+1413,"HIWWT","Jim Graham","H02A",,,2/2/2013,"2012-13",15:00,"Brent Goose",180,"Feeding","No"
+,"Betts Ecology Report","Betts Ecology","H02A",,,11/4/2013,"2013-14",,"Curlew",4,"Feeding",
+,"Betts Ecology Report","Betts Ecology","H02A",,,11/14/2013,"2013-14",,"Curlew",15,"Feeding",
+,"Betts Ecology Report","Betts Ecology","H02A",,,12/5/2013,"2013-14",,"Curlew",27,"Feeding",
+,"Betts Ecology Report","Betts Ecology","H02A",,,12/30/2013,"2013-14",,"Brent Goose",16,"Feeding",
+,"Betts Ecology Report","Betts Ecology","H02A",,,12/30/2013,"2013-14",,"Curlew",7,"Feeding",
+,"Betts Ecology Report","Betts Ecology","H02A",,,1/15/2014,"2013-14",,"Brent Goose",11,"Feeding",
+,"Betts Ecology Report","Betts Ecology","H02A",,,1/15/2014,"2013-14",,"Curlew",17,"Feeding",
+,"HIWWT","Jim Graham","H02A",,,1/28/2014,"2013-14",13:30,"Curlew",50,"Feeding","No"
+,"Betts Ecology Report","Betts Ecology","H02A",,,1/30/2014,"2013-14",,"Brent Goose",4,"Feeding",
+,"Betts Ecology Report","Betts Ecology","H02A",,,1/30/2014,"2013-14",,"Curlew",15,"Feeding",
+,"HIWWT","Jim Graham","H02A",,,2/2/2014,"2013-14",15:30,"Brent Goose",15,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/3/2014,"2013-14",16:30,"Brent Goose",17,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/4/2014,"2013-14",14:50,"Brent Goose",33,"Feeding","Yes"
+,"HIWWT","Jim Graham","H02A",,,2/4/2014,"2013-14",14:50,"Curlew",5,"Feeding","Yes"
+,"HIWWT","Jim Graham","H02A",,,2/5/2014,"2013-14",10:00,"Brent Goose",20,"Feeding","Yes"
+,"HIWWT","Jim Graham","H02A",,,2/10/2014,"2013-14",10:00,"Brent Goose",2,"Feeding","Yes"
+,"HIWWT","Jim Graham","H02A",,,2/11/2014,"2013-14",14:00,"Brent Goose",37,"Feeding","Yes"
+,"HIWWT","Jim Graham","H02A",,,2/12/2014,"2013-14",14:30,"Brent Goose",43,"Feeding","Yes"
+,"HIWWT","Jim Graham","H02A",,,2/13/2014,"2013-14",15:30,"Brent Goose",38,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/14/2014,"2013-14",16:00,"Brent Goose",30,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/15/2014,"2013-14",16:00,"Brent Goose",30,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/19/2014,"2013-14",10:00,"Brent Goose",18,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/19/2014,"2013-14",16:30,"Brent Goose",18,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/21/2014,"2013-14",16:30,"Brent Goose",38,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/23/2014,"2013-14",15:30,"Brent Goose",36,"Feeding","Yes"
+,"HIWWT","Jim Graham","H02A",,,3/4/2014,"2013-14",14:30,"Brent Goose",18,"Feeding","Yes"
+,"Betts Ecology Report","Betts Ecology","H02A",,,3/12/2014,"2013-14",,"Curlew",47,"Feeding",
+,"HIWWT","Jim Graham","H02A",,,3/16/2014,"2013-14",8:30,"Curlew",13,"Feeding","No"
+,"Betts Ecology Report","Betts Ecology","H02A",,,3/27/2014,"2013-14",,"Curlew",36,"Feeding",
+,"HIWWT","Jim Graham","H02A",,,12/9/2014,"2014-15",13:30,"Curlew",40,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,12/13/2014,"2014-15",11:30,"Curlew",40,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,12/28/2014,"2014-15",12:30,"Brent Goose",4,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,12/28/2014,"2014-15",14:00,"Brent Goose",4,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,12/28/2014,"2014-15",12:30,"Curlew",50,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,12/31/2014,"2014-15",13:30,"Brent Goose",40,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,12/31/2014,"2014-15",13:30,"Curlew",18,"Feeding","Yes"
+,"HIWWT","Jim Graham","H02A",,,1/7/2016,"2015-16",10:30,"Brent Goose",2,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,1/7/2016,"2015-16",10:30,"Curlew",9,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,1/14/2016,"2015-16",10:00,"Brent Goose",40,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,1/14/2016,"2015-16",10:00,"Curlew",20,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,1/19/2016,"2015-16",10:00,"Brent Goose",150,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,1/19/2016,"2015-16",10:00,"Curlew",20,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,1/25/2016,"2015-16",10:15,"Brent Goose",80,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,1/25/2016,"2015-16",10:15,"Curlew",20,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,1/28/2016,"2015-16",10:30,"Curlew",20,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/1/2016,"2015-16",15:30,"Brent Goose",50,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/1/2016,"2015-16",15:30,"Curlew",10,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/4/2016,"2015-16",14:00,"Brent Goose",10,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/4/2016,"2015-16",14:00,"Curlew",5,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/15/2016,"2015-16",14:00,"Brent Goose",14,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/15/2016,"2015-16",14:00,"Curlew",30,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/18/2016,"2015-16",9:30,"Brent Goose",7,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,2/18/2016,"2015-16",9:30,"Curlew",55,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,3/8/2016,"2015-16",9:15,"Brent Goose",200,"Feeding","No"
+,"HIWWT","Jim Graham","H02A",,,3/11/2016,"2015-16",10:30,"Brent Goose",150,"Feeding","No"
+1271,"Goosewatch","HCCET","H03",469110,106200,1/15/2013,"2012-13","15:15","Lapwing",101,,
+1269,"Goosewatch","HCCET","H03",469120,106220,1/15/2013,"2012-13","13:15","Lapwing",95,,
+1270,"Goosewatch","HCCET","H03",469150,106210,1/15/2013,"2012-13","14:15","Lapwing",70,,
+1427,"HIWWT","A Powling","H05A",,,2/23/2013,"2012-13",,"Lapwing",50,"Feeding",
+1436,"HIWWT","Jean Sutton","H07A",,,11/14/2011,"2011-12",10:30,"Brent Goose",130,"Feeding",
+1431,"HIWWT","Jean Sutton","H07A",,,2/10/2012,"2011-12",12:00,"Brent Goose",50,"Feeding",
+1432,"HIWWT","Jean Sutton","H07A",,,2/14/2012,"2011-12",11:00,"Brent Goose",75,"Feeding",
+1274,"Goosewatch","HCCET","H07A",469720,105530,12/19/2012,"2012-13","13:25","Brent Goose ",200,,"Yes"
+1278,"Goosewatch","HCCET","H07A",469670,105620,12/19/2012,"2012-13","13:25","Dunlin",50,,"Yes"
+1273,"Goosewatch","HCCET","H07A",469660,105580,12/19/2012,"2012-13","13:25","Oystercatcher",55,,"Yes"
+1280,"Goosewatch","HCCET","H07A",469670,105580,1/15/2013,"2012-13","12:00","Brent Goose ",9,,"Yes"
+1283,"Goosewatch","HCCET","H07A",469670,105580,1/15/2013,"2012-13","12:00","Lapwing",6,,"Yes"
+1279,"Goosewatch","HCCET","H07A",469670,105580,1/15/2013,"2012-13","12:00","Oystercatcher",5,,"Yes"
+1282,"Goosewatch","HCCET","H07A",469670,105580,1/15/2013,"2012-13","12:00","Turnstone",14,,"Yes"
+1291,"Goosewatch","HCCET","H07A",469650,105600,2/11/2013,"2012-13","10:10","Brent Goose ",8,,"Yes"
+1290,"Goosewatch","HCCET","H07A",469650,105600,2/11/2013,"2012-13","10:10","Dunlin",50,,"Yes"
+1288,"Goosewatch","HCCET","H07A",469650,105600,2/11/2013,"2012-13","10:10","Oystercatcher",18,,"Yes"
+1289,"Goosewatch","HCCET","H07A",469650,105600,2/11/2013,"2012-13","10:10","Redshank",6,,"Yes"
+1285,"Goosewatch","HCCET","H07A",469650,105600,2/11/2013,"2012-13","10:10","Turnstone",22,,"Yes"
+763,"Goosewatch","Peter Potts","H07A",469670,105600,1/4/2014,"2013-14",,"Oystercatcher",60,,
+1293,"Goosewatch","HCCET","H07B",469850,105500,12/19/2012,"2012-13","13:40","Brent Goose ",13,,"Yes"
+1292,"Goosewatch","HCCET","H07B",469850,105500,12/19/2012,"2012-13","13:40","Oystercatcher",18,,"Yes"
+1301,"Goosewatch","HCCET","H07B",469970,105520,1/15/2013,"2012-13","14:10","Redshank",3,,"No"
+1303,"Goosewatch","HCCET","H07C",470140,105570,1/15/2013,"2012-13","12:15","Redshank",3,,"No"
+1414,"HIWWT","Jim Graham","H100",,,1/31/2013,"2012-13",14:30,"Brent Goose",100,"Feeding","No"
+1415,"HIWWT","Jim Graham","H100",,,2/1/2013,"2012-13",13:30,"Brent Goose",150,"Feeding","No"
+1541,"RSPB","Wez Smith","H100",,,1/14/2014,"2013-14",13:45,"Brent Goose",20,"Feeding",
+,"HIWWT","Jim Graham","H100",,,2/4/2015,"2014-15",15:00,"Brent Goose",300,"Feeding","No"
+,"HIWWT","Jim Graham","H100",,,2/4/2015,"2014-15",15:00,"Curlew",50,"Feeding","No"
+,"HIWWT","Jim Graham","H100",,,2/4/2015,"2014-15",15:00,"Lapwing",50,"Feeding","No"
+654,"Goosewatch","Anne de Potier","H22B",473540,105570,1/18/2014,"2013-14","16:15","Brent Goose ",110,,
+600,"Goosewatch","Anne de Potier","H23C",472730,105280,1/7/2014,"2013-14","15:25","Brent Goose ",44,,"No"
+595,"Goosewatch","Anne de Potier","H23D",473130,105810,1/7/2014,"2013-14","15:45","Brent Goose ",460,,"No"
+766,"Goosewatch","Peter Potts","H24D",472490,105420,1/5/2014,"2013-14",,"Brent Goose ",500,,
+765,"Goosewatch","Peter Potts","H24D",472490,105420,1/5/2014,"2013-14",,"Brent Goose ",250,,
+,"HIWWT","Trevor Codlin","H24D",,,1/9/2014,"2013-14",,"Brent Goose",200,"Feeding",
+1307,"Goosewatch","HCCET","H24E",472600,105370,1/10/2013,"2012-13","10:00","Brent Goose ",20,,
+1308,"Goosewatch","HCCET","H24E",472600,105370,1/10/2013,"2012-13","10:00","Oystercatcher",15,,
+599,"Goosewatch","Anne de Potier","H24E",472620,105390,1/7/2014,"2013-14","15:15","Brent Goose ",500,,"No"
+597,"Goosewatch","Anne de Potier","H24E",472620,105390,1/7/2014,"2013-14","15:15","Brent Goose ",490,,"No"
+598,"Goosewatch","Anne de Potier","H24E",472620,105390,1/7/2014,"2013-14","15:15","Brent Goose ",490,,"No"
+1309,"Goosewatch","HCCET","H27",471480,105190,1/24/2013,"2012-13","11:40","Curlew",22,,
+1311,"Goosewatch","HCCET","H27",471480,105190,1/24/2013,"2012-13","11:40","Lapwing",9,,
+1310,"Goosewatch","HCCET","H27",471480,105190,1/24/2013,"2012-13","11:40","Oystercatcher",2,,
+712,"Goosewatch","Peter Potts","H27",471410,105200,1/4/2014,"2013-14","10:45","Curlew",47,,
+1530,"RSPB","Wez Smith","H27",,,1/5/2014,"2013-14",14:28,"Curlew",34,"Feeding",
+714,"Goosewatch","Peter Potts","H27",471460,105190,1/5/2014,"2013-14",,"Curlew",22,,
+1531,"RSPB","Wez Smith","H27",,,1/5/2014,"2013-14",14:28,"Oystercatcher",3,"Feeding",
+710,"Goosewatch","Peter Potts","H27",471440,105180,1/24/2014,"2013-14","14:30","Curlew",25,,
+1434,"HIWWT","Jean Sutton","H28A",,,11/7/2011,"2011-12",11:30,"Brent Goose",230,"Feeding",
+1435,"HIWWT","Jean Sutton","H28A",,,11/8/2011,"2011-12",13:15,"Brent Goose",345,"Feeding",
+1433,"HIWWT","Jean Sutton","H28A",,,2/27/2012,"2011-12",11:00,"Brent Goose",80,"Feeding",
+1313,"Goosewatch","HCCET","H28A",470920,105130,11/12/2012,"2012-13","11:40","Curlew",22,,
+1312,"Goosewatch","HCCET","H28A",470920,105130,11/12/2012,"2012-13","11:40","Lapwing",25,,
+1320,"Goosewatch","HCCET","H28A",470960,105140,12/19/2012,"2012-13","11:40","Brent Goose ",13,,"No"
+1316,"Goosewatch","HCCET","H28A",470960,105140,12/19/2012,"2012-13","11:40","Curlew",17,,"No"
+1317,"Goosewatch","HCCET","H28A",470960,105140,12/19/2012,"2012-13","11:40","Green Sandpiper",1,,"No"
+1315,"Goosewatch","HCCET","H28A",470960,105140,12/19/2012,"2012-13","11:40","Oystercatcher",7,,"No"
+1318,"Goosewatch","HCCET","H28A",470960,105140,12/19/2012,"2012-13","11:40","Snipe",1,,"No"
+1321,"Goosewatch","HCCET","H28A",470850,105140,1/15/2013,"2012-13","11:40","Brent Goose ",13,,"No"
+1322,"Goosewatch","HCCET","H28A",470870,105180,2/11/2013,"2012-13","11:00","Oystercatcher",16,,
+1325,"Goosewatch","HCCET","H28C",471220,104910,11/12/2012,"2012-13","13:00","Lapwing",2,,"Yes"
+1330,"Goosewatch","HCCET","H28C",471150,104900,2/11/2013,"2012-13","11:00","Knot",1,,"No"
+1331,"Goosewatch","HCCET","H28C",471150,104900,2/11/2013,"2012-13","11:00","Turnstone",5,,"No"
+1333,"Goosewatch","HCCET","H28C",471130,104960,3/14/2013,"2012-13","13:30","Redshank",30,,"No"
+1528,"RSPB","Wez Smith","H28C",,,1/4/2014,"2013-14",13:02,"Lapwing",2,,
+1529,"RSPB","Wez Smith","H28C",,,1/4/2014,"2013-14",13:02,"Redshank",4,,
+1542,"RSPB","Wez Smith","H34C",,,1/14/2014,"2013-14",15:15,"Brent Goose",620,"Feeding","Yes"
+1395,"HIWWT","G Hucks","H34E",,,12/8/2007,"2007-08",8:15,"Brent Goose",70,"Feeding",
+1394,"HIWWT","G Hucks","H34E",,,12/1/2011,"2011-12",,"Brent Goose",200,"Feeding",
+1393,"HIWWT","G Hucks","H34E",,,1/1/2012,"2011-12",,"Brent Goose",200,"Feeding",
+810,"Goosewatch","Anne de Potier","H40A",472850,100180,2/1/2014,"2013-14","13:30","Brent Goose ",500,,
+1397,"HIWWT","Linda Miles","H45",,,1/7/2013,"2012-13",14:44,"Brent goose",200,"Feeding",
+1398,"HIWWT","Linda Miles","H45",,,1/9/2013,"2012-13",15:01,"Brent goose",150,"Feeding",
+1399,"HIWWT","Linda Miles","H45",,,1/28/2013,"2012-13",14:10,"Brent goose",200,"Feeding",
+1400,"HIWWT","Linda Miles","H45",,,2/17/2013,"2012-13",12:51,"Brent goose",200,"Feeding",
+1401,"HIWWT","Linda Miles","H45",,,2/19/2013,"2012-13",13:56,"Brent Goose",250,"Feeding",
+1402,"HIWWT","Linda Miles","H45",,,2/27/2013,"2012-13",13:23,"Brent Goose",250,"Feeding",
+1403,"HIWWT","Linda Miles","H45",,,3/17/2013,"2012-13",13:37,"Brent Goose",250,"Feeding",
+1404,"HIWWT","Linda Miles","H45",,,3/20/2013,"2012-13",17:35,"Brent Goose",250,"Feeding","Yes "
+1405,"HIWWT","Linda Miles","H45",,,3/21/2013,"2012-13",16:51,"Brent Goose",250,"Feeding",
+1406,"HIWWT","Linda Miles","H45",,,3/22/2013,"2012-13",17:44,"Brent Goose",300,"Feeding",
+,"HIWWT","Linda Miles","H45",,,11/19/2014,"2014-15",11:02,"Brent Goose",500,"Feeding","Yes"
+,"HIWWT","Linda Miles","H45",,,11/21/2014,"2014-15",8:45,"Brent Goose",250,"Feeding","Yes"
+,"HIWWT","Linda Miles","H45",,,11/28/2014,"2014-15",9:00,"Brent Goose",80,"Feeding",
+,"HIWWT","Linda Miles","H45",,,11/29/2014,"2014-15",7:30,"Brent Goose",200,"Feeding",
+1336,"Goosewatch","HCCET","H46B",471820,99890,1/24/2013,"2012-13","11:00","Brent Goose ",2,,"Yes"
+1524,"RSPB","Wez Smith","H48C",,,12/23/2013,"2013-14",14:00,"Brent Goose",20,"Feeding",
+755,"Goosewatch","Peter Potts","H48C",471420,101610,1/4/2014,"2013-14",,"Brent Goose",1,,
+754,"Goosewatch","Peter Potts","H48C",471420,101610,1/4/2014,"2013-14",,"Brent Goose ",1500,,
+757,"Goosewatch","Peter Potts","H48C",471370,101630,1/4/2014,"2013-14",,"Redshank",1,,
+1532,"RSPB","Wez Smith","H48C",,,1/11/2014,"2013-14",15:30,"Brent Goose",610,"Feeding",
+1536,"RSPB","Wez Smith","H48C",,,1/11/2014,"2013-14",15:30,"Oystercatcher",1,"Feeding",
+1338,"Goosewatch","HCCET","H48D",471400,101410,11/11/2012,"2012-13","12:00","Curlew",64,,"No"
+1337,"Goosewatch","HCCET","H48D",471350,101440,11/11/2012,"2012-13","10:00","Curlew",55,,"Yes"
+1339,"Goosewatch","HCCET","H48D",471460,101410,2/28/2013,"2012-13","12:30","Brent Goose ",80,,"Yes"
+758,"Goosewatch","Peter Potts","H48D",471360,101420,1/4/2014,"2013-14",,"Brent Goose ",10,,
+1533,"RSPB","Wez Smith","H48D",,,1/11/2014,"2013-14",15:30,"Brent Goose",580,"Feeding",
+1340,"Goosewatch","HCCET","H48E",471340,101200,2/28/2013,"2012-13","12:30","Brent Goose ",80,,"No"
+1518,"RSPB","Wez Smith","H48F",,,12/20/2013,"2013-14",14:00,"Curlew",26,"Feeding",
+1525,"RSPB","Wez Smith","H48F",,,12/23/2013,"2013-14",14:15,"Brent Goose",1100,"Feeding",
+1527,"RSPB","Wez Smith","H48F",,,1/3/2014,"2013-14",16:05,"Brent Goose",1000,"Feeding",
+774,"Goosewatch","Peter Potts","H48F",471340,100940,1/4/2014,"2013-14",,"Brent Goose ",1,,
+772,"Goosewatch","Peter Potts","H48F",471340,100940,1/4/2014,"2013-14",,"Curlew",271,,
+773,"Goosewatch","Peter Potts","H48F",471340,100940,1/4/2014,"2013-14",,"Redshank",3,,
+778,"Goosewatch","Peter Potts","H48F",471410,100910,1/5/2014,"2013-14",,"Brent Goose ",9,,
+771,"Goosewatch","Peter Potts","H48F",471310,100970,1/5/2014,"2013-14",,"Curlew",130,,
+777,"Goosewatch","Peter Potts","H48F",471410,100910,1/5/2014,"2013-14",,"Curlew",130,,
+1534,"RSPB","Wez Smith","H48F",,,1/11/2014,"2013-14",15:30,"Brent Goose",2,"Feeding",
+711,"Goosewatch","Peter Potts","H48F",471340,100960,1/24/2014,"2013-14","14:15","Brent Goose ",1500,,
+1341,"Goosewatch","HCCET","H48G",471130,100800,12/11/2012,"2012-13","07:40","Brent Goose ",25,,"Yes"
+1342,"Goosewatch","HCCET","H48G",471220,100750,2/28/2013,"2012-13","12:30","Brent Goose ",50,,"No"
+1519,"RSPB","Wez Smith","H48G",,,12/20/2013,"2013-14",14:00,"Brent Goose",402,"Feeding",
+1521,"RSPB","Wez Smith","H48G",,,12/21/2013,"2013-14",14:30,"Brent Goose",638,"Feeding",
+768,"Goosewatch","Peter Potts","H48G",471240,100660,1/5/2014,"2013-14",,"Brent Goose ",2500,,
+770,"Goosewatch","Peter Potts","H48G",471240,100660,1/5/2014,"2013-14",,"Curlew",1,,
+661,"Goosewatch","Wolfgang Ritter","H48G",471230,100670,1/16/2014,"2013-14","11:05","Curlew",5,,"No"
+1344,"Goosewatch","HCCET","H49A",471800,101600,2/28/2013,"2012-13","12:30","Brent Goose ",60,,"No"
+1343,"Goosewatch","HCCET","H49A",471800,101600,2/28/2013,"2012-13","12:30","Brent Goose ",50,,"No"
+752,"Goosewatch","Peter Potts","H49A",471850,101610,1/4/2014,"2013-14",,"Brent Goose ",23,,
+1535,"RSPB","Wez Smith","H49A",,,1/11/2014,"2013-14",15:30,"Brent Goose",620,"Feeding",
+1346,"Goosewatch","HCCET","H49G",471780,100930,11/15/2012,"2012-13","13:20","Curlew",3,,"No"
+1345,"Goosewatch","HCCET","H49G",471710,100870,11/15/2012,"2012-13","10:22","Curlew",2,,"No"
+1347,"Goosewatch","HCCET","H49G",471830,100870,2/28/2013,"2012-13","12:20","Brent Goose ",80,,"No"
+1348,"Goosewatch","HCCET","H49H",471680,100630,11/12/2012,"2012-13","09:20","Curlew",1,,"No"
+1350,"Goosewatch","HCCET","H49H",471620,100670,12/11/2012,"2012-13","07:40","Curlew",8,,"No"
+1349,"Goosewatch","HCCET","H49H",471590,100640,12/11/2012,"2012-13","07:40","Lapwing",22,,"No"
+761,"Goosewatch","Peter Potts","H53A",471640,102830,1/4/2014,"2013-14",,"Oystercatcher",50,,
+750,"Goosewatch","Peter Potts","H56",472600,101940,1/5/2014,"2013-14",,"Brent Goose ",1,"Feeding",
+737,"Goosewatch","Peter Potts","H59A",473390,103850,1/4/2014,"2013-14","12:00","Brent Goose ",150,,
+738,"Goosewatch","Peter Potts","H59A",473390,103850,1/4/2014,"2013-14","12:00","Curlew",70,,
+742,"Goosewatch","Peter Potts","H59A",473320,103860,1/17/2014,"2013-14","16:00","Brent Goose ",1000,,
+723,"Goosewatch","Peter Potts","H59C",473630,103690,1/4/2014,"2013-14","12:00","Brent Goose ",60,,
+730,"Goosewatch","Peter Potts","H59C",473630,103690,1/4/2014,"2013-14","12:00","Curlew",1,,
+729,"Goosewatch","Peter Potts","H59C",473630,103690,1/4/2014,"2013-14","12:00","Lapwing",150,,
+728,"Goosewatch","Peter Potts","H59C",473630,103690,1/4/2014,"2013-14","12:00","Oystercatcher",6,,
+731,"Goosewatch","Peter Potts","H59C",473630,103690,1/4/2014,"2013-14","12:00","Redshank",1,,
+724,"Goosewatch","Peter Potts","H59C",473630,103690,1/4/2014,"2013-14","12:00","Shelduck",39,,
+732,"Goosewatch","Peter Potts","H59C",473630,103790,1/5/2014,"2013-14","12:00","Curlew",150,,
+735,"Goosewatch","Peter Potts","H59C",473630,103790,1/5/2014,"2013-14","12:00","Oystercatcher",6,,
+734,"Goosewatch","Peter Potts","H59C",473630,103790,1/5/2014,"2013-14","12:00","Shelduck",39,,
+733,"Goosewatch","Peter Potts","H59C",473630,103790,1/5/2014,"2013-14","12:00","Whimbrel",1,,"Yes"
+759,"Goosewatch","Peter Potts","H59D",473390,103440,1/4/2014,"2013-14",,"Black-tailed Godwit",200,,
+743,"Goosewatch","Peter Potts","H59E",473500,103210,1/4/2014,"2013-14","16:00","Brent Goose ",1200,,
+744,"Goosewatch","Peter Potts","H59F",473160,102830,1/4/2014,"2013-14",,"Brent Goose ",190,,
+746,"Goosewatch","Peter Potts","H59F",473160,102830,1/4/2014,"2013-14",,"Curlew",1,,
+748,"Goosewatch","Peter Potts","H59F",473210,102850,1/5/2014,"2013-14",,"Brent Goose",1,,
+749,"Goosewatch","Peter Potts","H59F",473210,102850,1/5/2014,"2013-14",,"Brent Goose ",931,,
+747,"Goosewatch","Peter Potts","H59F",473210,102850,1/5/2014,"2013-14",,"Curlew",13,,
+,"HIWWT","Trevor Codlin","H60B",,,1/9/2014,"2013-14",,"Brent Goose",47,"Feeding",
+1538,"RSPB","Wez Smith","H60B",,,1/14/2014,"2013-14",13:30,"Brent Goose",178,"Roosting",
+719,"Goosewatch","Peter Potts","H60I",472340,103190,1/4/2014,"2013-14","11:00","Curlew",45,,
+718,"Goosewatch","Peter Potts","H60J",472290,103960,1/4/2014,"2013-14","11:00","Curlew",24,,
+,"HIWWT","Trevor Codlin","H60J",,,1/9/2014,"2013-14",,"Brent Goose",344,"Feeding",
+762,"Goosewatch","Peter Potts","H62A",471640,103780,1/4/2014,"2013-14",,"Brent Goose ",10,,
+1539,"RSPB","Wez Smith","H65",,,1/14/2014,"2013-14",13:45,"Brent Goose",500,"Feeding",
+1522,"RSPB","Wez Smith","H76",,,12/20/2013,"2013-14",14:00,"Curlew",2,"Roosting",
+1523,"RSPB","Wez Smith","H76",,,12/20/2013,"2013-14",14:00,"Dunlin",14,"Roosting",
+1526,"RSPB","Wez Smith","H76",,,12/23/2013,"2013-14",15:45,"Brent Goose",110,"Roosting",
+1537,"RSPB","Wez Smith","H76",,,1/14/2014,"2013-14",13:30,"Redshank",18,"Feeding",
+1540,"RSPB","Wez Smith","H77",,,1/14/2014,"2013-14",13:45,"Brent Goose",17,,
+1520,"RSPB","Wez Smith","H84",,,12/20/2013,"2013-14",14:30,"Brent Goose",45,"Feeding",
+1351,"Goosewatch","HCCET","H90",473530,105050,12/19/2012,"2012-13","14:25","Oystercatcher",17,,"Yes"
+1355,"Goosewatch","HCCET","H90",473530,105050,12/19/2012,"2012-13","14:25","Redshank",1,,"Yes"
+1357,"Goosewatch","HCCET","H90",473520,105020,2/11/2013,"2012-13","10:40","Oystercatcher",44,,
+1359,"Goosewatch","HCCET","H90",473520,105020,2/11/2013,"2012-13","10:40","Redshank",2,,
+1358,"Goosewatch","HCCET","H90",473520,105020,2/11/2013,"2012-13","10:40","Turnstone",9,,
+,"HIWWT","Mick Dunn","IOW86",,,3/1/2014,"2013-14","10:00","Brent Goose",50,"Feeding","Yes"
+,"HIWWT","Mick Dunn","IOW86",,,3/1/2015,"2014-15","10:00","Brent Goose",50,"Feeding","Yes"
+,"HIWWT","Mick Dunn","IOW86",,,3/1/2016,"2015-16","11:00","Brent Goose",150,"Feeding","Yes"
+,"HIWWT","Mick Dunn","IOW86",,,3/3/2016,"2015-16","10:30","Brent Goose",200,"Feeding","Yes"
+807,"Goosewatch","Bob Chapman","NF34",429670,91130,11/29/2013,"2013-14",,"Brent Goose ",600,,"No"
+1371,"HIWWT","Milton Neighbourhood Forum","P08A",,,1/17/2012,"2011-12",,"Brent Goose",100,"Feeding","No"
+798,"Goosewatch","Bob Chapman","P08A",467670,104760,11/19/2013,"2013-14","15:00","Brent Goose ",328,,"Yes"
+806,"Goosewatch","Bob Chapman","P08A",467670,104790,11/22/2013,"2013-14","11:30","Brent Goose ",310,,"Yes"
+1372,"HIWWT","Milton Neighbourhood Forum","P08C",,,1/17/2012,"2011-12",,"Brent Goose",100,"Feeding","No"
+796,"Goosewatch","Bob Chapman","P10",468610,104660,11/19/2013,"2013-14","13:30","Black Brant",1,,"No"
+797,"Goosewatch","Bob Chapman","P10",468610,104660,11/19/2013,"2013-14","13:30","Brent Goose ",980,,"No"
+804,"Goosewatch","Bob Chapman","P10",468730,104840,11/22/2013,"2013-14","10:00","Brent Goose ",85,,"No"
+1377,"HIWWT","Milton Neighbourhood Forum","P103",,,2/7/2012,"2011-12",10:30,"Brent Goose",200,"Feeding","No"
+,"HCCET","HCCET","P103",,,11/2/2012,"2012-13",11:30,"Redshank",1,"Roosting",
+,"HCCET","HCCET","P103",,,2/11/2013,"2012-13",13:10,"Oystercatcher",8,"Roosting",
+,"HCCET","HCCET","P103",,,3/18/2013,"2012-13",14:35,"Brent goose",32,"Feeding",
+,"HCCET","HCCET","P103",,,3/18/2013,"2012-13",14:35,"Turnstone",3,"Feeding",
+799,"Goosewatch","Bob Chapman","P11",467360,103090,11/19/2013,"2013-14","15:20","Brent Goose ",4,,
+1368,"HIWWT","Milton Neighbourhood Forum","P12",,,12/20/2011,"2011-12",15:00,"Brent Goose",600,"Feeding","No"
+1367,"HIWWT","Milton Neighbourhood Forum","P12",,,12/20/2011,"2011-12",12:30,"Brent Goose",50,"Feeding","Yes"
+1373,"HIWWT","Milton Neighbourhood Forum","P12",,,1/17/2012,"2011-12",,"Brent Goose",100,"Feeding","No"
+,"HCCET","HCCET","P12",,,3/10/2013,"2012-13",14:00,"Brent goose",70,"Feeding",
+478,"Goosewatch","Ed Rowsell","P20",466400,101380,12/11/2013,"2013-14",,"Avocet",1,,
+1383,"HIWWT","Milton Neighbourhood Forum","P23A",,,2/13/2012,"2011-12",,"Brent Goose",20,,
+1378,"HIWWT","Milton Neighbourhood Forum","P23B",,,2/7/2012,"2011-12",10:53,"Brent Goose",600,"Feeding","No"
+,"HCCET","HCCET","P23B",,,1/1/2013,"2012-13",13:00,"Brent goose",50,"Feeding",
+1225,"Goosewatch","HCCET","P23B",467700,100240,1/1/2013,"2012-13","13:30","Brent Goose ",50,,
+,"HCCET","HCCET","P23b",,,1/28/2013,"2012-13",11:50,"Brent goose",550,"Feeding",
+,"HCCET","HCCET","P23b",,,1/28/2013,"2012-13",11:50,"Oystercatcher",8,"Roosting",
+1226,"Goosewatch","HCCET","P23B",467710,100220,1/29/2013,"2012-13","13:30","Brent Goose ",550,,
+1227,"Goosewatch","HCCET","P23B",467710,100220,1/29/2013,"2012-13","13:30","Oystercatcher",8,,
+,"HCCET","HCCET","P23B",,,2/11/2013,"2012-13",13:00,"Oystercatcher",16,"Roosting",
+,"HCCET","HCCET","P23B",,,3/10/2013,"2012-13",13:30,"Brent goose",100,"Feeding",
+1230,"Goosewatch","HCCET","P23B",467640,100170,3/10/2013,"2012-13","13:30","Brent Goose ",100,,
+1379,"HIWWT","Milton Neighbourhood Forum","P23R",,,2/10/2012,"2011-12",15:50,"Brent Goose",300,"Feeding","No"
+1370,"HIWWT","Milton Neighbourhood Forum","P25",,,1/15/2012,"2011-12",14:45,"Brent Goose",300,"Feeding","No"
+1375,"HIWWT","Milton Neighbourhood Forum","P25",,,1/27/2012,"2011-12",13:38,"Brent Goose",150,"Feeding","No"
+1376,"HIWWT","Milton Neighbourhood Forum","P25",,,1/31/2012,"2011-12",10:25,"Brent Goose",200,"Feeding","Yes"
+1380,"HIWWT","Milton Neighbourhood Forum","P25",,,2/27/2012,"2011-12",17:00,"Brent Goose",150,"Feeding","No"
+1381,"HIWWT","Milton Neighbourhood Forum","P25",,,2/28/2012,"2011-12",10:07,"Brent Goose",150,"Feeding","No"
+1382,"HIWWT","Milton Neighbourhood Forum","P25",,,3/10/2012,"2011-12",11:15,"Brent Goose",500,"Feeding","No"
+,"HCCET","HCCET","P25",,,1/1/2013,"2012-13",15:00,"Brent goose",200,"Feeding","No"
+1232,"Goosewatch","HCCET","P25",467430,100100,1/1/2013,"2012-13","15:00","Brent Goose ",200,,
+1389,"HIWWT","Milton Neighbourhood Forum","P25",,,1/21/2013,"2012-13",15:49,"Brent Goose",1,"Feeding",
+1390,"HIWWT","Milton Neighbourhood Forum","P25",,,2/6/2013,"2012-13",9:15,"Brent Goose",100,"Feeding",
+,"HCCET","HCCET","P25",,,2/11/2013,"2012-13",12:40,"Brent goose",250,"Roosting",
+1233,"Goosewatch","HCCET","P25",467480,100090,2/11/2013,"2012-13","12:40","Brent Goose ",250,,
+1234,"Goosewatch","HCCET","P25",467400,100100,2/11/2013,"2012-13","12:40","Oystercatcher",1,,
+,"HCCET","HCCET","P25",,,2/11/2013,"2012-13",12:40,"Oystercatcher",1,"Roosting",
+,"HCCET","HCCET","P25",,,3/28/2013,"2012-13",10:55,"Oystercatcher",1,"Roosting",
+1388,"HIWWT","Milton Neighbourhood Forum","P25",,,12/13/2013,"2013-14",12:30,"Brent Goose",100,"Feeding",
+,"HIWWT","Milton Neighbourhood Forum","P25",,,2/10/2014,"2013-14",10:24,"Brent Goose",100,"Feeding",
+,"HCCET","HCCET","P29",,,11/2/2012,"2012-13",12:00,"Brent goose",160,"Feeding",
+,"HCCET","HCCET","P29",,,11/2/2012,"2012-13",13:30,"Brent goose",160,"Feeding",
+1235,"Goosewatch","HCCET","P29",467110,99080,11/2/2012,"2012-13","12:00","Brent Goose ",160,,
+,"HCCET","HCCET","P31",,,1/25/2013,"2012-13",10:30,"Brent goose",200,"Feeding",
+,"HCCET","HCCET","P31",,,2/11/2013,"2012-13",11:20,"Brent goose",300,"Feeding",
+1236,"Goosewatch","HCCET","P31",466810,98830,2/11/2013,"2012-13","11:20","Brent Goose ",300,,
+,"HCCET","HCCET","P32A",,,11/28/2012,"2012-13",8:35,"Brent goose",30,"Feeding",
+,"HCCET","HCCET","P32A",,,12/14/2012,"2012-13",8:30,"Brent goose",30,"Feeding","No"
+,"HCCET","HCCET","P32A",,,1/13/2013,"2012-13",11:00,"Brent goose",100,"Feeding","No"
+1238,"Goosewatch","HCCET","P32A",465890,98460,1/13/2013,"2012-13","11:35","Brent Goose ",100,,
+,"HCCET","HCCET","P32A",,,1/14/2013,"2012-13",9:00,"Brent goose",25,"Feeding","No"
+1239,"Goosewatch","HCCET","P32A",465900,98460,1/14/2013,"2012-13","09:35","Brent Goose ",25,,
+,"HCCET","HCCET","P32A",,,1/15/2013,"2012-13",9:00,"Brent goose",30,"Feeding","No"
+1240,"Goosewatch","HCCET","P32A",465910,98450,1/15/2013,"2012-13","09:35","Brent Goose ",30,,
+,"HCCET","HCCET","P32A",,,1/22/2013,"2012-13",8:45,"Brent goose",10,"Feeding","No"
+1241,"Goosewatch","HCCET","P32A",465900,98450,1/22/2013,"2012-13","08:35","Brent Goose ",10,,
+,"HCCET","HCCET","P32A",,,2/4/2013,"2012-13",8:45,"Brent goose",40,"Feeding","No"
+1243,"Goosewatch","HCCET","P32A",465870,98500,2/4/2013,"2012-13","08:35","Brent Goose ",40,,
+1237,"Goosewatch","HCCET","P32A",465900,98510,2/11/2013,"2012-13","08:35","Brent Goose ",30,,
+,"HCCET","HCCET","P32A",,,2/15/2013,"2012-13",9:00,"Brent goose",80,"Feeding","No"
+1244,"Goosewatch","HCCET","P32A",465890,98490,2/15/2013,"2012-13","08:35","Brent Goose ",80,,
+,"HCCET","HCCET","P32A",,,3/14/2013,"2012-13",9:00,"Brent goose",50,"Feeding","No"
+1245,"Goosewatch","HCCET","P32A",465920,98460,3/14/2013,"2012-13","08:35","Brent Goose ",50,,
+,"HCCET","HCCET","P32A",,,3/22/2013,"2012-13",8:45,"Brent goose",50,"Feeding",
+1246,"Goosewatch","HCCET","P32A",465900,98460,3/22/2013,"2012-13","08:35","Brent Goose ",50,,
+,"HCCET","HCCET","P32B",,,12/10/2012,"2012-13",8:30,"Brent goose",30,"Feeding",
+1248,"Goosewatch","HCCET","P32B",466010,98520,12/10/2012,"2012-13","08:35","Brent Goose ",30,,
+,"HCCET","HCCET","P32B",,,12/14/2012,"2012-13",8:30,"Brent goose",200,"Feeding","No"
+1261,"Goosewatch","HCCET","P32B",466040,98500,12/14/2012,"2012-13","09:00","Brent Goose ",200,,
+,"HCCET","HCCET","P32B",,,12/15/2012,"2012-13",12:30,"Brent goose",200,"Feeding","Yes"
+1249,"Goosewatch","HCCET","P32B",466020,98500,12/15/2012,"2012-13","12:35","Brent Goose ",200,,
+,"HCCET","HCCET","P32B",,,12/18/2012,"2012-13",8:45,"Brent goose",30,"Feeding","No"
+1250,"Goosewatch","HCCET","P32B",466010,98500,12/18/2012,"2012-13","08:35","Brent Goose ",30,,
+,"HCCET","HCCET","P32B",,,12/19/2012,"2012-13",8:45,"Brent goose",20,"Feeding","No"
+1251,"Goosewatch","HCCET","P32B",466040,98520,12/19/2012,"2012-13","08:35","Brent Goose ",30,,
+,"HCCET","HCCET","P32B",,,12/20/2012,"2012-13",8:45,"Brent goose",40,"Feeding","No"
+1262,"Goosewatch","HCCET","P32B",466030,98510,12/20/2012,"2012-13","09:00","Brent Goose ",40,,
+,"HCCET","HCCET","P32B",,,1/7/2013,"2012-13",8:45,"Brent goose",20,"Feeding","No"
+1252,"Goosewatch","HCCET","P32B",466050,98490,1/7/2013,"2012-13","08:35","Brent Goose ",20,,
+,"HCCET","HCCET","P32B",,,1/8/2013,"2012-13",8:45,"Brent goose",10,"Feeding","No"
+1253,"Goosewatch","HCCET","P32B",466020,98510,1/8/2013,"2012-13","08:35","Brent Goose ",10,,
+,"HCCET","HCCET","P32B",,,1/9/2013,"2012-13",8:45,"Brent goose",25,"Feeding","No"
+1254,"Goosewatch","HCCET","P32B",466100,98520,1/9/2013,"2012-13","08:35","Brent Goose ",25,,
+,"HCCET","HCCET","P32B",,,1/11/2013,"2012-13",9:00,"Brent goose",15,"Feeding","No"
+1255,"Goosewatch","HCCET","P32B",466040,98520,1/11/2013,"2012-13","08:35","Brent Goose ",15,,
+,"HCCET","HCCET","P32B",,,1/21/2013,"2012-13",8:45,"Brent goose",30,"Feeding","No"
+1256,"Goosewatch","HCCET","P32B",466010,98520,1/21/2013,"2012-13","09:00","Brent Goose ",30,,
+1257,"Goosewatch","HCCET","P32B",466050,98500,1/26/2013,"2012-13","09:00","Brent Goose ",40,,
+,"HCCET","HCCET","P32B",,,1/28/2013,"2012-13",9:00,"Brent goose",40,"Feeding","No"
+,"HCCET","HCCET","P32B",,,2/5/2013,"2012-13",8:45,"Brent goose",8,"Feeding","No"
+1258,"Goosewatch","HCCET","P32B",465980,98520,2/5/2013,"2012-13","09:00","Brent Goose ",8,,
+,"HCCET","HCCET","P32B",,,2/6/2013,"2012-13",8:45,"Brent goose",8,"Feeding","No"
+,"HCCET","HCCET","P32B",,,2/14/2013,"2012-13",8:45,"Brent goose",40,"Feeding","No"
+1259,"Goosewatch","HCCET","P32B",466050,98530,2/14/2013,"2012-13","09:00","Brent Goose ",8,,
+,"HCCET","HCCET","P32B",,,3/22/2013,"2012-13",8:45,"Brent goose",150,"Feeding","No"
+1260,"Goosewatch","HCCET","P32B",466010,98510,3/22/2013,"2012-13","09:00","Brent Goose ",150,,
+1374,"HIWWT","Milton Neighbourhood Forum","P40",,,1/17/2012,"2011-12",,"Brent Goose",100,"Feeding","No"
+,"HCCET","HCCET","P40",,,11/29/2012,"2012-13",13:30,"Brent goose",50,"Feeding","No"
+1263,"Goosewatch","HCCET","P40",464830,103560,11/29/2012,"2012-13","13:00","Brent Goose ",50,,
+,"HCCET","HCCET","P40",,,12/3/2012,"2012-13",12:20,"Brent goose",80,"Feeding","Yes"
+,"HCCET","HCCET","P40",,,12/3/2012,"2012-13",14:00,"Brent goose",50,"Feeding","No"
+1264,"Goosewatch","HCCET","P40",464670,103540,12/3/2012,"2012-13","12:20","Brent Goose ",80,,
+1265,"Goosewatch","HCCET","P40",464830,103530,12/3/2012,"2012-13","14:20","Brent Goose ",50,,
+1266,"Goosewatch","HCCET","P40",464640,103530,1/25/2013,"2012-13","14:20","Oystercatcher",2,,
+,"HCCET","HCCET","P40",,,1/25/2013,"2012-13",11:50,"Oystercatcher",2,"Roosting","Yes"
+,"HCCET","HCCET","P40",,,1/25/2013,"2012-13",9:05,"Oystercatcher",1,"Feeding","Yes"
+,"HCCET","HCCET","P40",,,2/1/2013,"2012-13",12:45,"Brent goose",200,"Feeding","Yes"
+1267,"Goosewatch","HCCET","P40",464760,103610,2/1/2013,"2012-13","12:45","Brent Goose ",200,,
+1366,"HIWWT","Milton Neighbourhood Forum","P52",,,12/20/2011,"2011-12",15:00,"Brent Goose",250,"Feeding","No"
+1365,"HIWWT","Milton Neighbourhood Forum","P52",,,12/20/2011,"2011-12",12:15,"Brent Goose",100,"Feeding","No"
+1369,"HIWWT","Milton Neighbourhood Forum","P52",,,1/11/2012,"2011-12",16:00,"Brent Goose",25,"Feeding","No"
+1384,"HIWWT","Milton Neighbourhood Forum","P52",,,3/24/2012,"2011-12",,"Brent Goose",75,"Feeding",
+1385,"HIWWT","Milton Neighbourhood Forum","P52",,,11/4/2012,"2012-13",15:15,"Brent Goose",400,"Feeding",
+1386,"HIWWT","Milton Neighbourhood Forum","P52",,,11/7/2012,"2012-13",14:50,"Brent Goose",300,"Feeding",
+,"HCCET","HCCET","P52",,,3/28/2013,"2012-13",11:10,"Brent goose",200,"Feeding",
+1268,"Goosewatch","HCCET","P52",467310,101490,3/28/2013,"2012-13","11:00","Brent Goose ",200,,"No"
+801,"Goosewatch","Bob Chapman","P52",467310,101430,11/19/2013,"2013-14","15:35","Black-tailed Godwit",7,,"No"
+802,"Goosewatch","Bob Chapman","P52",467310,101430,11/19/2013,"2013-14","15:35","Brent Goose ",465,,"No"
+803,"Goosewatch","Bob Chapman","P52",467310,101430,11/19/2013,"2013-14","15:35","Oystercatcher",5,,"No"
+1387,"HIWWT","Milton Neighbourhood Forum","P52",,,12/13/2013,"2013-14",12:30,"Brent Goose",600,"Feeding",
+800,"Goosewatch","Bob Chapman","P54",467000,101390,11/19/2013,"2013-14","15:30","Lapwing",1,,
+,"HIWWT","Trevor Codlin","P55",454887,101826,2/15/2014,"2013-14","10:30","Oystercatcher",50,"Roosting",
+,"HCCET","HCCET","P78",,,1/28/2013,"2012-13",11:30,"Oystercatcher",7,"Roosting","Yes"
+,"HCCET","HCCET","P80",,,11/29/2012,"2012-13",13:00,"Brent goose",150,,
+,"HCCET","HCCET","P80",,,11/29/2012,"2012-13",11:30,"Brent goose",12,,
+,"HCCET","HCCET","P80",,,12/3/2012,"2012-13",14:00,"Brent goose",20,,"No"
+,"HCCET","HCCET","P80",,,1/25/2013,"2012-13",9:00,"Brent goose",200,"Feeding","Yes"
+,"HCCET","HCCET","P80",,,1/25/2013,"2012-13",11:50,"Brent goose",60,,
+,"HCCET","HCCET","P80",,,2/25/2013,"2012-13",11:25,"Brent goose",200,,"Yes"
+,"HCCET","HCCET","P80",,,2/25/2013,"2012-13",9:40,"Brent goose",87,,
+,"HCCET","HCCET","P80",,,2/25/2013,"2012-13",12:30,"Brent goose",26,,
+,"HCCET","HCCET","P80",,,3/28/2013,"2012-13",12:00,"Brent goose",65,,
+,"HCCET","HCCET","P82",,,11/2/2012,"2012-13",11:30,"Dunlin",2,,"Yes"
+,"HCCET","HCCET","P82",,,1/25/2013,"2012-13",10:45,"Oystercatcher",1,"Roosting",
+,"HCCET","HCCET","P82",,,1/25/2013,"2012-13",10:45,"Redshank",40,"Roosting",
+,"HCCET","HCCET","P82",,,1/25/2013,"2012-13",10:45,"Ringed Plover",20,"Roosting",
+,"HCCET","HCCET","P82",,,1/28/2013,"2012-13",10:50,"Brent goose",13,"Feeding","Yes"
+,"HCCET","HCCET","P82",,,1/28/2013,"2012-13",10:50,"Curlew",1,"Roosting","Yes"
+,"HCCET","HCCET","P82",,,1/28/2013,"2012-13",10:50,"Grey Plover",2,"Roosting","Yes"
+,"HCCET","HCCET","P82",,,1/28/2013,"2012-13",12:40,"Grey Plover",1,"Roosting",
+,"HCCET","HCCET","P82",,,1/28/2013,"2012-13",12:40,"Redshank",40,"Roosting",
+,"HCCET","HCCET","P82",,,1/28/2013,"2012-13",10:50,"Redshank",30,"Roosting","Yes"
+,"HCCET","HCCET","P82",,,1/28/2013,"2012-13",10:50,"Turnstone",9,"Feeding","Yes"
+,"HCCET","HCCET","P82",,,1/28/2013,"2012-13",12:40,"Turnstone",7,"Roosting",
+,"HCCET","HCCET","P82",,,2/11/2013,"2012-13",10:25,"Grey Plover",3,"Roosting",
+,"HCCET","HCCET","P82",,,2/11/2013,"2012-13",10:25,"Redshank",50,"Roosting",
+,"HCCET","HCCET","P82",,,2/11/2013,"2012-13",10:25,"Turnstone",13,"Feeding","Yes"
+,"HCCET","HCCET","P82",,,3/18/2013,"2012-13",14:35,"Redshank",1,"Feeding","Yes"
+,"HIWWT","Trevor Codlin","W07",452200,111800,2/1/2014,"2013-14",,"Common Sandpiper",2,"Feeding",
+,"HIWWT","Trevor Codlin","W07",452200,111800,2/1/2014,"2013-14",,"Curlew",35,"Roosting",
+,"HIWWT","Trevor Codlin","W07",452200,111800,2/1/2014,"2013-14",,"Oystercatcher",2,"Roosting",
